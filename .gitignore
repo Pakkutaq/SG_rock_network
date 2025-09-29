@@ -1,4 +1,7 @@
-rock_artists/
+rock_artists/pages/
+LIST_PAGE.txt
+PERFORMER_LIST.txt
 *.pyc
 __pycache__/
 .ipynb_checkpoints/
+Assignments/
