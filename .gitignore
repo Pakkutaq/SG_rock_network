@@ -1,0 +1,4 @@
+rock_artists/
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
