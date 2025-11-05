@@ -3,7 +3,7 @@
   <key id="d7" for="node" attr.name="labels" attr.type="string" />
   <key id="d6" for="node" attr.name="origin" attr.type="string" />
   <key id="d5" for="node" attr.name="community" attr.type="long" />
-  <key id="d4" for="node" attr.name="sentiment" attr.type="double" />
+  <key id="d4" for="node" attr.name="_genres_list" attr.type="string" />
   <key id="d3" for="node" attr.name="years_active" attr.type="string" />
   <key id="d2" for="node" attr.name="genre_count" attr.type="string" />
   <key id="d1" for="node" attr.name="genres" attr.type="string" />
@@ -14,7 +14,7 @@
       <data key="d1">hard rock</data>
       <data key="d2">1</data>
       <data key="d3">1963–present</data>
-      <data key="d4">5.865411160058738</data>
+      <data key="d4">hard rock</data>
       <data key="d5">0</data>
     </node>
     <node id="Damn Yankees (band)">
@@ -23,7 +23,7 @@
       <data key="d2">1</data>
       <data key="d6">New York City, U.S.</data>
       <data key="d7">Warner Bros.</data>
-      <data key="d4">5.975552238805971</data>
+      <data key="d4">hard rock arena rock</data>
       <data key="d5">0</data>
     </node>
     <node id="Ramones">
@@ -32,7 +32,7 @@
       <data key="d2">1</data>
       <data key="d6">Forest Hills, Queens, NewYork, U.S.</data>
       <data key="d3">–</data>
-      <data key="d4">6.186197623514698</data>
+      <data key="d4">punk rock pop punk</data>
       <data key="d5">1</data>
     </node>
     <node id="Styx (band)">
@@ -40,7 +40,7 @@
       <data key="d1">progressive rock art rock hard rock arena rock pop rock</data>
       <data key="d2">1</data>
       <data key="d6">Chicago, Illinois, U.S.</data>
-      <data key="d4">6.302698548249359</data>
+      <data key="d4">progressive rock art rock hard rock arena rock pop rock</data>
       <data key="d5">4</data>
     </node>
     <node id="Pearl Jam">
@@ -49,7 +49,7 @@
       <data key="d2">3</data>
       <data key="d6">Seattle, Washington, U.S.</data>
       <data key="d3">1990–present</data>
-      <data key="d4">6.273645200486027</data>
+      <data key="d4">grunge;alternative rock;hard rock</data>
       <data key="d5">1</data>
     </node>
     <node id="Skid Row (American band)">
@@ -57,7 +57,7 @@
       <data key="d1">heavy metal hard rock glam metal</data>
       <data key="d2">1</data>
       <data key="d6">Toms River, New Jersey, U.S.</data>
-      <data key="d4">5.977001522070015</data>
+      <data key="d4">heavy metal hard rock glam metal</data>
       <data key="d5">0</data>
     </node>
     <node id="Pantera">
@@ -65,7 +65,7 @@
       <data key="d1">groove metal thrash metal</data>
       <data key="d2">1</data>
       <data key="d6">Arlington, Texas, U.S.</data>
-      <data key="d4">5.940679672750157</data>
+      <data key="d4">groove metal thrash metal</data>
       <data key="d5">0</data>
     </node>
     <node id="Anthrax (American band)">
@@ -74,7 +74,7 @@
       <data key="d2">1</data>
       <data key="d6">Queens, New York City, U.S.</data>
       <data key="d3">1981–present</data>
-      <data key="d4">6.133761829652998</data>
+      <data key="d4">thrash metal groove metal</data>
       <data key="d5">0</data>
     </node>
     <node id="Frank Zappa">
@@ -82,7 +82,7 @@
       <data key="d1">rock; progressive rock; blues; experimental; jazz; fusion; classical; pop; avant garde; doo wop; comedy; electronic; musique concrète</data>
       <data key="d2">13</data>
       <data key="d6">Los Angeles, California, U.S.</data>
-      <data key="d4">6.226009795447997</data>
+      <data key="d4">rock;progressive rock;blues;experimental;jazz;fusion;classical;pop;avant garde;doo wop;comedy;electronic;musique concrète</data>
       <data key="d5">3</data>
     </node>
     <node id="Stone Temple Pilots">
@@ -90,7 +90,7 @@
       <data key="d1">alternative rock grunge alternative metal psychedelic rock</data>
       <data key="d2">1</data>
       <data key="d6">San Diego, California, U.S.</data>
-      <data key="d4">6.43018010963195</data>
+      <data key="d4">alternative rock grunge alternative metal psychedelic rock</data>
       <data key="d5">2</data>
     </node>
     <node id="Nickelback">
@@ -99,7 +99,7 @@
       <data key="d2">1</data>
       <data key="d6">Hanna, Alberta, Canada</data>
       <data key="d3">1995–present</data>
-      <data key="d4">6.32795957651588</data>
+      <data key="d4">post grunge hard rock alternative metal pop rock</data>
       <data key="d5">2</data>
     </node>
     <node id="Mitch Ryder">
@@ -107,7 +107,7 @@
       <data key="d1">rock and roll; rhythm and blues; blue eyed soul; frat rock; hard rock</data>
       <data key="d2">5</data>
       <data key="d3">1962–present</data>
-      <data key="d4">6.249411764705882</data>
+      <data key="d4">rock and roll;rhythm and blues;blue eyed soul;frat rock;hard rock</data>
       <data key="d5">3</data>
     </node>
     <node id="Foreigner (band)">
@@ -116,7 +116,7 @@
       <data key="d2">3</data>
       <data key="d6">New York City, New York, U.S.</data>
       <data key="d3">–present</data>
-      <data key="d4">6.246530872056015</data>
+      <data key="d4">hard rock;soft rock;arena rock</data>
       <data key="d5">4</data>
     </node>
     <node id="Bo Diddley">
@@ -124,7 +124,7 @@
       <data key="d1">rock and roll; blues; psychedelic funk</data>
       <data key="d2">3</data>
       <data key="d3">1943–2008</data>
-      <data key="d4">6.3533422222222224</data>
+      <data key="d4">rock and roll;blues;psychedelic funk</data>
       <data key="d5">3</data>
     </node>
     <node id="Meat Loaf">
@@ -132,7 +132,7 @@
       <data key="d1">rock hard rock</data>
       <data key="d2">1</data>
       <data key="d3">1968–2022</data>
-      <data key="d4">5.964763757643135</data>
+      <data key="d4">rock hard rock</data>
       <data key="d5">4</data>
     </node>
     <node id="Kid Rock">
@@ -140,14 +140,14 @@
       <data key="d1">rock hip hop country</data>
       <data key="d2">1</data>
       <data key="d3">1988–present</data>
-      <data key="d4">6.259516829533116</data>
+      <data key="d4">rock hip hop country</data>
       <data key="d5">4</data>
     </node>
     <node id="Little Richard">
       <data key="d0">12272</data>
       <data key="d1">rock and roll; rhythm and blues; gospel; soul</data>
       <data key="d2">4</data>
-      <data key="d4">6.280260497667185</data>
+      <data key="d4">rock and roll;rhythm and blues;gospel;soul</data>
       <data key="d5">3</data>
     </node>
     <node id="Motörhead">
@@ -156,14 +156,14 @@
       <data key="d2">1</data>
       <data key="d6">London, England</data>
       <data key="d3">1975–2015</data>
-      <data key="d4">6.118902905198777</data>
+      <data key="d4">heavy metal hard rock speed metal</data>
       <data key="d5">0</data>
     </node>
     <node id="Paul McCartney">
       <data key="d0">19619</data>
       <data key="d1">rock pop classical electronic</data>
       <data key="d2">1</data>
-      <data key="d4">6.376336492890995</data>
+      <data key="d4">rock pop classical electronic</data>
       <data key="d5">3</data>
     </node>
     <node id="Jimi Hendrix">
@@ -171,7 +171,7 @@
       <data key="d1">rock; psychedelia; blues; r and b</data>
       <data key="d2">4</data>
       <data key="d3">1962–1970</data>
-      <data key="d4">6.192900976290098</data>
+      <data key="d4">rock;psychedelia;blues;r and b</data>
       <data key="d5">3</data>
     </node>
     <node id="Chuck Berry">
@@ -179,7 +179,7 @@
       <data key="d1">rock and roll rhythm and blues</data>
       <data key="d2">1</data>
       <data key="d3">1953–2017</data>
-      <data key="d4">6.2670602605863195</data>
+      <data key="d4">rock and roll rhythm and blues</data>
       <data key="d5">3</data>
     </node>
     <node id="Aerosmith">
@@ -188,7 +188,7 @@
       <data key="d2">1</data>
       <data key="d6">Boston, Massachusetts, U.S.</data>
       <data key="d3">1970–present</data>
-      <data key="d4">6.319930423782415</data>
+      <data key="d4">hard rock blues rock heavy metal</data>
       <data key="d5">0</data>
     </node>
     <node id="Harry Nilsson">
@@ -197,7 +197,7 @@
       <data key="d2">1</data>
       <data key="d6">Los Angeles, California, U.S.</data>
       <data key="d3">1958–1994</data>
-      <data key="d4">6.309227405247814</data>
+      <data key="d4">rock pop</data>
       <data key="d5">3</data>
     </node>
     <node id="Ratt">
@@ -205,7 +205,7 @@
       <data key="d1">glam metal heavy metal hard rock</data>
       <data key="d2">1</data>
       <data key="d6">Hollywood, California, U.S.</data>
-      <data key="d4">6.150389784946236</data>
+      <data key="d4">glam metal heavy metal hard rock</data>
       <data key="d5">0</data>
     </node>
     <node id="Metallica">
@@ -214,7 +214,7 @@
       <data key="d2">1</data>
       <data key="d6">Los Angeles, California, U.S.</data>
       <data key="d3">1981–present</data>
-      <data key="d4">6.190753012048193</data>
+      <data key="d4">heavy metal thrash metal hard rock</data>
       <data key="d5">0</data>
     </node>
     <node id="Van Halen">
@@ -222,7 +222,7 @@
       <data key="d1">hard rock heavy metal pop rock arena rock glam metal</data>
       <data key="d2">1</data>
       <data key="d6">Pasadena, California, U.S.</data>
-      <data key="d4">6.294180287270927</data>
+      <data key="d4">hard rock heavy metal pop rock arena rock glam metal</data>
       <data key="d5">0</data>
     </node>
     <node id="Heart (band)">
@@ -230,7 +230,7 @@
       <data key="d1">rock hard rock folk rock pop rock</data>
       <data key="d2">1</data>
       <data key="d6">Seattle, Washington, U.S.</data>
-      <data key="d4">6.4400087183958155</data>
+      <data key="d4">rock hard rock folk rock pop rock</data>
       <data key="d5">4</data>
     </node>
     <node id="Godsmack">
@@ -239,7 +239,7 @@
       <data key="d2">1</data>
       <data key="d6">Lawrence, Massachusetts, U.S.</data>
       <data key="d3">1995–present</data>
-      <data key="d4">6.373035294117647</data>
+      <data key="d4">alternative metal hard rock nu metal</data>
       <data key="d5">2</data>
     </node>
     <node id="Thin Lizzy">
@@ -247,7 +247,7 @@
       <data key="d1">hard rock blues rock heavy metal folk rock</data>
       <data key="d2">1</data>
       <data key="d6">Dublin, Ireland</data>
-      <data key="d4">6.086201022146507</data>
+      <data key="d4">hard rock blues rock heavy metal folk rock</data>
       <data key="d5">0</data>
     </node>
     <node id="Cheap Trick">
@@ -256,7 +256,7 @@
       <data key="d2">1</data>
       <data key="d6">Rockford, Illinois, U.S.</data>
       <data key="d3">1970–present</data>
-      <data key="d4">6.142257575757577</data>
+      <data key="d4">rock hard rock power pop</data>
       <data key="d5">4</data>
     </node>
     <node id="The Black Crowes">
@@ -264,7 +264,7 @@
       <data key="d1">southern rock; blues rock; hard rock; roots rock; jam band</data>
       <data key="d2">5</data>
       <data key="d6">Atlanta, Georgia, U.S.</data>
-      <data key="d4">6.3658866995073895</data>
+      <data key="d4">southern rock;blues rock;hard rock;roots rock;jam band</data>
       <data key="d5">0</data>
     </node>
     <node id="Limp Bizkit">
@@ -272,7 +272,7 @@
       <data key="d1">nu metal rap rock rap metal</data>
       <data key="d2">1</data>
       <data key="d6">Jacksonville, Florida, U.S.</data>
-      <data key="d4">6.157414937759336</data>
+      <data key="d4">nu metal rap rock rap metal</data>
       <data key="d5">2</data>
     </node>
     <node id="Guns N' Roses">
@@ -281,7 +281,7 @@
       <data key="d2">1</data>
       <data key="d6">Los Angeles, California, U.S.</data>
       <data key="d3">1985–present</data>
-      <data key="d4">6.062694094226942</data>
+      <data key="d4">hard rock heavy metal</data>
       <data key="d5">0</data>
     </node>
     <node id="U2">
@@ -290,14 +290,14 @@
       <data key="d2">1</data>
       <data key="d6">Dublin, Ireland</data>
       <data key="d3">1976–present</data>
-      <data key="d4">6.329650529934117</data>
+      <data key="d4">rock alternative rock pop rock post punk</data>
       <data key="d5">1</data>
     </node>
     <node id="Alice Cooper">
       <data key="d1">hard rock; shock rock; heavy metal</data>
       <data key="d2">3</data>
       <data key="d6">Phoenix, Arizona, U.S.</data>
-      <data key="d4">6.170768435561682</data>
+      <data key="d4">hard rock;shock rock;heavy metal</data>
       <data key="d5">0</data>
     </node>
     <node id="Warrant (American band)">
@@ -306,7 +306,7 @@
       <data key="d2">1</data>
       <data key="d6">Los Angeles, California, U.S.</data>
       <data key="d3">1984–present</data>
-      <data key="d4">6.238320000000001</data>
+      <data key="d4">glam metal hard rock heavy metal</data>
       <data key="d5">0</data>
     </node>
     <node id="Kiss (band)">
@@ -315,7 +315,7 @@
       <data key="d2">1</data>
       <data key="d6">New York City, U.S.</data>
       <data key="d3">1973–2023</data>
-      <data key="d4">6.341612511387792</data>
+      <data key="d4">hard rock heavy metal shock rock glam metal</data>
       <data key="d5">0</data>
     </node>
     <node id="Cinderella (band)">
@@ -324,7 +324,7 @@
       <data key="d2">1</data>
       <data key="d6">Clifton Heights, Pennsylvania, U.S.</data>
       <data key="d3">1983–2014</data>
-      <data key="d4">6.141869369369369</data>
+      <data key="d4">glam metal hard rock</data>
       <data key="d5">0</data>
     </node>
     <node id="The Beatles">
@@ -333,7 +333,7 @@
       <data key="d2">4</data>
       <data key="d6">Liverpool, England</data>
       <data key="d3">1960–1970</data>
-      <data key="d4">6.3464643727987</data>
+      <data key="d4">rock;pop;beat;psychedelia</data>
       <data key="d5">3</data>
     </node>
     <node id="Radiohead">
@@ -342,7 +342,7 @@
       <data key="d2">1</data>
       <data key="d6">Abingdon, Oxfordshire, England</data>
       <data key="d3">1985–present</data>
-      <data key="d4">6.302885572139304</data>
+      <data key="d4">art rock alternative rock electronica experimental rock</data>
       <data key="d5">1</data>
     </node>
     <node id="Run-DMC">
@@ -350,7 +350,7 @@
       <data key="d1">hip hop; rap rock</data>
       <data key="d2">2</data>
       <data key="d6">Queens, New York City, U.S.</data>
-      <data key="d4">6.132412556053811</data>
+      <data key="d4">hip hop;rap rock</data>
       <data key="d5">1</data>
     </node>
     <node id="Train (band)">
@@ -359,7 +359,7 @@
       <data key="d2">1</data>
       <data key="d6">San Francisco, California, U.S.</data>
       <data key="d3">1993–2006, 2009–present</data>
-      <data key="d4">6.546090534979425</data>
+      <data key="d4">rock alternative rock pop rock roots rock</data>
       <data key="d5">1</data>
     </node>
     <node id="Velvet Revolver">
@@ -368,7 +368,7 @@
       <data key="d2">1</data>
       <data key="d6">Rancho Santa Margarita, California, U.S.</data>
       <data key="d3">2002–2008(one-off reunions: 2010, 2012)</data>
-      <data key="d4">6.266190476190476</data>
+      <data key="d4">hard rock alternative metal</data>
       <data key="d5">0</data>
     </node>
     <node id="Staind">
@@ -376,7 +376,7 @@
       <data key="d1">alternative metal hard rock</data>
       <data key="d2">1</data>
       <data key="d6">Springfield, Massachusetts, U.S.</data>
-      <data key="d4">6.303001555209954</data>
+      <data key="d4">alternative metal hard rock</data>
       <data key="d5">2</data>
     </node>
     <node id="Mötley Crüe">
@@ -384,7 +384,7 @@
       <data key="d1">heavy metal glam metal hard rock</data>
       <data key="d2">1</data>
       <data key="d6">Hollywood, California, U.S.</data>
-      <data key="d4">5.982629246676514</data>
+      <data key="d4">heavy metal glam metal hard rock</data>
       <data key="d5">0</data>
     </node>
     <node id="New York Dolls">
@@ -392,7 +392,7 @@
       <data key="d1">hard rock; proto punk; glam punk</data>
       <data key="d2">3</data>
       <data key="d6">New York City, U.S.</data>
-      <data key="d4">6.172614727854856</data>
+      <data key="d4">hard rock;proto punk;glam punk</data>
       <data key="d5">1</data>
     </node>
     <node id="Joan Jett">
@@ -401,7 +401,7 @@
       <data key="d2">3</data>
       <data key="d6">Los Angeles, California</data>
       <data key="d3">1975–present</data>
-      <data key="d4">6.282551020408163</data>
+      <data key="d4">rock;hard rock;punk rock</data>
       <data key="d5">4</data>
     </node>
     <node id="Extreme (band)">
@@ -409,7 +409,7 @@
       <data key="d1">hard rock funk metal</data>
       <data key="d2">1</data>
       <data key="d6">Boston, Massachusetts, U.S.</data>
-      <data key="d4">6.441484794275492</data>
+      <data key="d4">hard rock funk metal</data>
       <data key="d5">0</data>
     </node>
     <node id="Led Zeppelin">
@@ -418,7 +418,7 @@
       <data key="d2">1</data>
       <data key="d6">London, England</data>
       <data key="d3">1968–1980</data>
-      <data key="d4">6.360071625344353</data>
+      <data key="d4">hard rock blues rock folk rock heavy metal</data>
       <data key="d5">0</data>
     </node>
     <node id="Nirvana (band)">
@@ -427,14 +427,14 @@
       <data key="d2">1</data>
       <data key="d6">Aberdeen, Washington, U.S.</data>
       <data key="d3">1987–1994</data>
-      <data key="d4">6.313963712491277</data>
+      <data key="d4">grunge alternative rock</data>
       <data key="d5">1</data>
     </node>
     <node id="Lenny Kravitz">
       <data key="d0">5619</data>
       <data key="d1">rock funk soul</data>
       <data key="d2">1</data>
-      <data key="d4">6.643492957746479</data>
+      <data key="d4">rock funk soul</data>
       <data key="d5">3</data>
     </node>
     <node id="ZZ Top">
@@ -443,7 +443,7 @@
       <data key="d2">4</data>
       <data key="d6">Houston, Texas, U.S.</data>
       <data key="d3">1969–present</data>
-      <data key="d4">6.399658484525079</data>
+      <data key="d4">blues rock;hard rock;boogie rock;southern rock</data>
       <data key="d5">3</data>
     </node>
     <node id="Papa Roach">
@@ -452,7 +452,7 @@
       <data key="d2">1</data>
       <data key="d6">Vacaville, California, U.S.</data>
       <data key="d3">1993–present</data>
-      <data key="d4">6.306442748091603</data>
+      <data key="d4">alternative rock nu metal rap metal</data>
       <data key="d5">2</data>
     </node>
     <node id="Tesla (band)">
@@ -460,7 +460,7 @@
       <data key="d1">hard rock; blues rock; glam metal</data>
       <data key="d2">3</data>
       <data key="d6">Sacramento, California, U.S.</data>
-      <data key="d4">6.330902394106814</data>
+      <data key="d4">hard rock;blues rock;glam metal</data>
       <data key="d5">0</data>
     </node>
     <node id="Boston (band)">
@@ -469,7 +469,7 @@
       <data key="d2">1</data>
       <data key="d6">Boston, Massachusetts, U.S.</data>
       <data key="d3">1975–present (on hiatus since 2017)</data>
-      <data key="d4">6.295525494276795</data>
+      <data key="d4">hard rock arena rock</data>
       <data key="d5">0</data>
     </node>
     <node id="Roxy Music">
@@ -477,14 +477,14 @@
       <data key="d1">art rock; glam rock; pop rock; sophisti pop</data>
       <data key="d2">4</data>
       <data key="d6">Newcastle upon Tyne/London, England</data>
-      <data key="d4">6.463050397877983</data>
+      <data key="d4">art rock;glam rock;pop rock;sophisti pop</data>
       <data key="d5">1</data>
     </node>
     <node id="David Bowie">
       <data key="d0">16738</data>
       <data key="d1">art rock glam rock pop electronic</data>
       <data key="d2">1</data>
-      <data key="d4">6.270347850678735</data>
+      <data key="d4">art rock glam rock pop electronic</data>
       <data key="d5">1</data>
     </node>
     <node id="Sex Pistols">
@@ -492,7 +492,7 @@
       <data key="d1">punk rock</data>
       <data key="d2">1</data>
       <data key="d6">London, England</data>
-      <data key="d4">5.899947943779282</data>
+      <data key="d4">punk rock</data>
       <data key="d5">1</data>
     </node>
     <node id="Duran Duran">
@@ -501,14 +501,14 @@
       <data key="d2">1</data>
       <data key="d6">Birmingham, England</data>
       <data key="d3">1978–present</data>
-      <data key="d4">6.347299957210098</data>
+      <data key="d4">pop rock synth pop new wave dance rock</data>
       <data key="d5">1</data>
     </node>
     <node id="Elton John">
       <data key="d0">15095</data>
       <data key="d1">pop rock glam rock soft rock blues</data>
       <data key="d2">1</data>
-      <data key="d4">6.419121007910928</data>
+      <data key="d4">pop rock glam rock soft rock blues</data>
       <data key="d5">3</data>
     </node>
     <node id="The Rolling Stones">
@@ -517,7 +517,7 @@
       <data key="d2">1</data>
       <data key="d6">London, England</data>
       <data key="d3">1962–present</data>
-      <data key="d4">6.219373266777592</data>
+      <data key="d4">rock pop blues</data>
       <data key="d5">3</data>
     </node>
     <node id="Pink Floyd">
@@ -525,7 +525,7 @@
       <data key="d1">progressive rock art rock psychedelic rock space rock experimental rock</data>
       <data key="d2">1</data>
       <data key="d6">London, England</data>
-      <data key="d4">6.210617399438727</data>
+      <data key="d4">progressive rock art rock psychedelic rock space rock experimental rock</data>
       <data key="d5">1</data>
     </node>
     <node id="Bryan Ferry">
@@ -533,7 +533,7 @@
       <data key="d1">pop rock; glam rock; art rock; sophisti pop</data>
       <data key="d2">4</data>
       <data key="d3">1967–present</data>
-      <data key="d4">6.438600508905853</data>
+      <data key="d4">pop rock;glam rock;art rock;sophisti pop</data>
       <data key="d5">1</data>
     </node>
     <node id="Elvis Presley">
@@ -541,7 +541,7 @@
       <data key="d1">rock and roll pop rockabilly country gospel r and b soul blues</data>
       <data key="d2">1</data>
       <data key="d3">1953–1977</data>
-      <data key="d4">6.168568415502241</data>
+      <data key="d4">rock and roll pop rockabilly country gospel r and b soul blues</data>
       <data key="d5">3</data>
     </node>
     <node id="The Velvet Underground">
@@ -549,7 +549,7 @@
       <data key="d1">art rock; experimental rock</data>
       <data key="d2">2</data>
       <data key="d6">New York City, U.S.</data>
-      <data key="d4">6.247468656716418</data>
+      <data key="d4">art rock;experimental rock</data>
       <data key="d5">1</data>
     </node>
     <node id="Franz Ferdinand (band)">
@@ -559,14 +559,14 @@
       <data key="d6">Glasgow, Scotland</data>
       <data key="d3">2002–present</data>
       <data key="d7">Domino</data>
-      <data key="d4">6.39774378585086</data>
+      <data key="d4">indie rock post punk revival art rock art punk</data>
       <data key="d5">1</data>
     </node>
     <node id="John Lennon">
       <data key="d0">15619</data>
       <data key="d1">rock; pop; experimental</data>
       <data key="d2">3</data>
-      <data key="d4">6.188270305820454</data>
+      <data key="d4">rock;pop;experimental</data>
       <data key="d5">3</data>
     </node>
     <node id="Echo &amp; the Bunnymen">
@@ -574,7 +574,7 @@
       <data key="d1">post punk; new wave; neo psychedelia</data>
       <data key="d2">3</data>
       <data key="d6">Liverpool, England</data>
-      <data key="d4">6.244723809523809</data>
+      <data key="d4">post punk;new wave;neo psychedelia</data>
       <data key="d5">1</data>
     </node>
     <node id="Talking Heads">
@@ -582,14 +582,14 @@
       <data key="d1">new wave post punk avant funk art pop worldbeat</data>
       <data key="d2">1</data>
       <data key="d3">*</data>
-      <data key="d4">6.302506963788301</data>
+      <data key="d4">new wave post punk avant funk art pop worldbeat</data>
       <data key="d5">1</data>
     </node>
     <node id="Bob Dylan">
       <data key="d0">20156</data>
       <data key="d1">folk blues rock gospel country traditional pop</data>
       <data key="d2">1</data>
-      <data key="d4">6.277848586487781</data>
+      <data key="d4">folk blues rock gospel country traditional pop</data>
       <data key="d5">3</data>
     </node>
     <node id="Eddie Cochran">
@@ -597,7 +597,7 @@
       <data key="d1">rock and roll rockabilly country rhythm and blues</data>
       <data key="d2">1</data>
       <data key="d3">1950–1960</data>
-      <data key="d4">6.147192575406033</data>
+      <data key="d4">rock and roll rockabilly country rhythm and blues</data>
       <data key="d5">3</data>
     </node>
     <node id="Simple Minds">
@@ -606,7 +606,7 @@
       <data key="d2">4</data>
       <data key="d6">Glasgow, Scotland</data>
       <data key="d3">1977–present</data>
-      <data key="d4">6.351533646322379</data>
+      <data key="d4">post punk;art rock;arena rock;synth pop</data>
       <data key="d5">1</data>
     </node>
     <node id="Depeche Mode">
@@ -615,7 +615,7 @@
       <data key="d2">4</data>
       <data key="d6">Basildon, Essex, England</data>
       <data key="d3">1980–present</data>
-      <data key="d4">6.313967247754887</data>
+      <data key="d4">synth pop;electronic rock;new wave;alternative rock</data>
       <data key="d5">1</data>
     </node>
     <node id="Fun (band)">
@@ -624,7 +624,7 @@
       <data key="d2">1</data>
       <data key="d6">New York City, U.S.</data>
       <data key="d3">2008–2015</data>
-      <data key="d4">6.578310139165009</data>
+      <data key="d4">indie pop indie rock pop rock</data>
       <data key="d5">1</data>
     </node>
     <node id="Paramore">
@@ -633,7 +633,7 @@
       <data key="d2">1</data>
       <data key="d6">Franklin, Tennessee, U.S.</data>
       <data key="d3">2004–present</data>
-      <data key="d4">6.316977346278317</data>
+      <data key="d4">pop punk emo pop rock power pop</data>
       <data key="d5">1</data>
     </node>
     <node id="Queen (band)">
@@ -642,7 +642,7 @@
       <data key="d2">1</data>
       <data key="d6">London, England</data>
       <data key="d3">1970–present</data>
-      <data key="d4">6.394831901840489</data>
+      <data key="d4">rock pop</data>
       <data key="d5">0</data>
     </node>
     <node id="Panic! at the Disco">
@@ -650,7 +650,7 @@
       <data key="d1">pop rock baroque pop electropop emo pop punk</data>
       <data key="d2">1</data>
       <data key="d6">Las Vegas, Nevada, U.S.</data>
-      <data key="d4">6.135508373205742</data>
+      <data key="d4">pop rock baroque pop electropop emo pop punk</data>
       <data key="d5">1</data>
     </node>
     <node id="Awolnation">
@@ -659,7 +659,7 @@
       <data key="d2">1</data>
       <data key="d6">Los Angeles, California, U.S.</data>
       <data key="d3">2009–present</data>
-      <data key="d4">6.3694827586206895</data>
+      <data key="d4">alternative rock electronic rock electropop pop rock dance rock</data>
       <data key="d5">1</data>
     </node>
     <node id="311 (band)">
@@ -668,7 +668,7 @@
       <data key="d2">1</data>
       <data key="d6">Omaha, Nebraska, U.S.</data>
       <data key="d3">1988–present</data>
-      <data key="d4">6.338113839285713</data>
+      <data key="d4">alternative rock rap rock reggae rock funk rock funk metal</data>
       <data key="d5">1</data>
     </node>
     <node id="Midnight Oil">
@@ -677,7 +677,7 @@
       <data key="d2">4</data>
       <data key="d6">Sydney, New South Wales, Australia</data>
       <data key="d3">1972–2002, 2016–present(reunions: 2005, 2009)</data>
-      <data key="d4">6.272776308831306</data>
+      <data key="d4">alternative rock;hard rock;post punk;new wavemerline, michael .. spectrum culture.</data>
       <data key="d5">1</data>
     </node>
     <node id="Red Hot Chili Peppers">
@@ -686,7 +686,7 @@
       <data key="d2">1</data>
       <data key="d6">Los Angeles, California, U.S.</data>
       <data key="d3">–present</data>
-      <data key="d4">6.196390398550725</data>
+      <data key="d4">funk rock alternative rock rap rock</data>
       <data key="d5">1</data>
     </node>
     <node id="Goo Goo Dolls">
@@ -695,7 +695,7 @@
       <data key="d2">3</data>
       <data key="d6">Buffalo, New York, U.S.</data>
       <data key="d3">1986–present</data>
-      <data key="d4">6.4413055181695835</data>
+      <data key="d4">alternative rock;pop rock;punk rock</data>
       <data key="d5">2</data>
     </node>
     <node id="Fall Out Boy">
@@ -703,7 +703,7 @@
       <data key="d1">pop punk pop rock emo</data>
       <data key="d2">1</data>
       <data key="d6">Wilmette, Illinois, U.S.</data>
-      <data key="d4">6.349674134419552</data>
+      <data key="d4">pop punk pop rock emo</data>
       <data key="d5">1</data>
     </node>
     <node id="The Cars">
@@ -711,7 +711,7 @@
       <data key="d1">new wave power pop pop rock synth rock</data>
       <data key="d2">1</data>
       <data key="d6">Boston, Massachusetts, U.S.</data>
-      <data key="d4">6.369695340501793</data>
+      <data key="d4">new wave power pop pop rock synth rock</data>
       <data key="d5">1</data>
     </node>
     <node id="Incubus (band)">
@@ -720,7 +720,7 @@
       <data key="d2">1</data>
       <data key="d6">Calabasas, California, U.S.</data>
       <data key="d3">1991–present</data>
-      <data key="d4">6.297613707165109</data>
+      <data key="d4">alternative rock alternative metal funk metal nu metal</data>
       <data key="d5">1</data>
     </node>
     <node id="Scorpions (band)">
@@ -729,7 +729,7 @@
       <data key="d2">1</data>
       <data key="d6">Hanover, West Germany</data>
       <data key="d3">1965–present</data>
-      <data key="d4">6.357862703467799</data>
+      <data key="d4">hard rock heavy metal</data>
       <data key="d5">0</data>
     </node>
     <node id="Rise Against">
@@ -738,7 +738,7 @@
       <data key="d2">2</data>
       <data key="d6">Chicago, Illinois, U.S.</data>
       <data key="d3">1999–present</data>
-      <data key="d4">6.08663448275862</data>
+      <data key="d4">melodic hardcore;punk rock</data>
       <data key="d5">1</data>
     </node>
     <node id="Twenty One Pilots">
@@ -747,7 +747,7 @@
       <data key="d2">1</data>
       <data key="d6">Columbus, Ohio, U.S.</data>
       <data key="d3">2009–present</data>
-      <data key="d4">6.385623003194888</data>
+      <data key="d4">alternative rock electropop alternative hip hop pop rap pop rock</data>
       <data key="d5">1</data>
     </node>
     <node id="Barenaked Ladies">
@@ -756,7 +756,7 @@
       <data key="d2">1</data>
       <data key="d6">Scarborough, Ontario, Canada</data>
       <data key="d3">1988–present</data>
-      <data key="d4">6.451625615763547</data>
+      <data key="d4">alternative pop folk rock pop rock comedy rock</data>
       <data key="d5">1</data>
     </node>
     <node id="Dave Matthews Band">
@@ -765,7 +765,7 @@
       <data key="d2">1</data>
       <data key="d6">Charlottesville, Virginia, U.S.</data>
       <data key="d3">1991–present</data>
-      <data key="d4">6.254984266834488</data>
+      <data key="d4">rock jam rock</data>
       <data key="d5">1</data>
     </node>
     <node id="Beastie Boys">
@@ -774,7 +774,7 @@
       <data key="d2">1</data>
       <data key="d6">New York City, U.S.</data>
       <data key="d3">1981–2012</data>
-      <data key="d4">6.182355802640723</data>
+      <data key="d4">hip hop rap rock alternative hip hop hardcore punk</data>
       <data key="d5">1</data>
     </node>
     <node id="Steely Dan">
@@ -782,7 +782,7 @@
       <data key="d1">jazz rock yacht rock pop jazz fusion</data>
       <data key="d2">1</data>
       <data key="d6">Annandale-on-Hudson, New York, United States</data>
-      <data key="d4">6.201438596491228</data>
+      <data key="d4">jazz rock yacht rock pop jazz fusion</data>
       <data key="d5">3</data>
     </node>
     <node id="Genesis (band)">
@@ -790,7 +790,7 @@
       <data key="d1">progressive rock art rock pop rock soft rock</data>
       <data key="d2">1</data>
       <data key="d6">Godalming, Surrey, England</data>
-      <data key="d4">6.222939549585145</data>
+      <data key="d4">progressive rock art rock pop rock soft rock</data>
       <data key="d5">3</data>
     </node>
     <node id="Rush (band)">
@@ -798,7 +798,7 @@
       <data key="d1">progressive rock hard rock</data>
       <data key="d2">1</data>
       <data key="d6">Toronto, Ontario, Canada</data>
-      <data key="d4">6.289153908138598</data>
+      <data key="d4">progressive rock hard rock</data>
       <data key="d5">0</data>
     </node>
     <node id="Gin Blossoms">
@@ -807,7 +807,7 @@
       <data key="d2">1</data>
       <data key="d6">Tempe, Arizona, U.S.</data>
       <data key="d7">A&amp;M, Hybrid, 429</data>
-      <data key="d4">6.13184</data>
+      <data key="d4">alternative rock jangle pop power pop country rock</data>
       <data key="d5">2</data>
     </node>
     <node id="Peter Gabriel">
@@ -815,7 +815,7 @@
       <data key="d1">progressive rock; art rock; worldbeat; progressive soul</data>
       <data key="d2">4</data>
       <data key="d3">1965–present</data>
-      <data key="d4">6.366772371850565</data>
+      <data key="d4">progressive rock;art rock;worldbeat;progressive soul</data>
       <data key="d5">1</data>
     </node>
     <node id="Bryan Adams">
@@ -823,7 +823,7 @@
       <data key="d1">rock; pop rock; soft rock; arena rock; heartland rock</data>
       <data key="d2">5</data>
       <data key="d3">1975–present</data>
-      <data key="d4">6.3867214953271025</data>
+      <data key="d4">rock;pop rock;soft rock;arena rock;heartland rock</data>
       <data key="d5">3</data>
     </node>
     <node id="Supertramp">
@@ -831,7 +831,7 @@
       <data key="d1">progressive pop; progressive rock; soft rock; pop</data>
       <data key="d2">4</data>
       <data key="d6">London, England</data>
-      <data key="d4">6.0850949367088605</data>
+      <data key="d4">progressive pop;progressive rock;soft rock;pop</data>
       <data key="d5">3</data>
     </node>
     <node id="The Mamas &amp; the Papas">
@@ -839,7 +839,7 @@
       <data key="d1">folk rock sunshine pop</data>
       <data key="d2">1</data>
       <data key="d6">Los Angeles, California, U.S.</data>
-      <data key="d4">6.191964586846543</data>
+      <data key="d4">folk rock sunshine pop</data>
       <data key="d5">3</data>
     </node>
     <node id="The Beach Boys">
@@ -848,7 +848,7 @@
       <data key="d2">1</data>
       <data key="d6">Hawthorne, California, U.S.</data>
       <data key="d3">1961–present</data>
-      <data key="d4">6.46194384449244</data>
+      <data key="d4">rock pop surf psychedelia</data>
       <data key="d5">3</data>
     </node>
     <node id="Kenny Loggins">
@@ -856,7 +856,7 @@
       <data key="d1">rock; pop; folk rock; r and b; soul; soft rock; rip it up; allmusic</data>
       <data key="d2">8</data>
       <data key="d3">1968–present</data>
-      <data key="d4">6.475721868365181</data>
+      <data key="d4">rock;pop;folk rock;r and b;soul;soft rock;rip it up;allmusic</data>
       <data key="d5">4</data>
     </node>
     <node id="Foster the People">
@@ -864,7 +864,7 @@
       <data key="d1">indie pop synth pop dance pop alternative rock indie rock</data>
       <data key="d2">1</data>
       <data key="d6">Los Angeles, California, U.S.</data>
-      <data key="d4">6.429287510477788</data>
+      <data key="d4">indie pop synth pop dance pop alternative rock indie rock</data>
       <data key="d5">3</data>
     </node>
     <node id="Florence and the Machine">
@@ -873,7 +873,7 @@
       <data key="d2">8</data>
       <data key="d6">London, England</data>
       <data key="d3">2007–present</data>
-      <data key="d4">6.4741330998248685</data>
+      <data key="d4">indie rock;indie pop;chamber pop;baroque pop;art pop;art rock;neo soul;folk</data>
       <data key="d5">3</data>
     </node>
     <node id="Fuel (band)">
@@ -882,7 +882,7 @@
       <data key="d2">1</data>
       <data key="d6">Harrisburg, Pennsylvania, U.S.</data>
       <data key="d3">1993–present</data>
-      <data key="d4">6.30178417266187</data>
+      <data key="d4">alternative rock hard rock post grunge alternative metal</data>
       <data key="d5">2</data>
     </node>
     <node id="Everclear (band)">
@@ -891,7 +891,7 @@
       <data key="d2">1</data>
       <data key="d6">Portland, Oregon, U.S.</data>
       <data key="d3">1992–present</data>
-      <data key="d4">6.267703889585948</data>
+      <data key="d4">alternative rock power pop pop rock punk rock</data>
       <data key="d5">2</data>
     </node>
     <node id="Puddle of Mudd">
@@ -900,7 +900,7 @@
       <data key="d2">1</data>
       <data key="d6">Kansas City, Missouri, U.S.</data>
       <data key="d3">1992–present</data>
-      <data key="d4">6.254841688654354</data>
+      <data key="d4">post grunge hard rock alternative rock</data>
       <data key="d5">2</data>
     </node>
     <node id="Saliva (band)">
@@ -909,7 +909,7 @@
       <data key="d2">1</data>
       <data key="d6">Memphis, Tennessee, U.S.</data>
       <data key="d3">1996–present</data>
-      <data key="d4">6.326751879699249</data>
+      <data key="d4">nu metal post grunge alternative metal rap metal hard rock</data>
       <data key="d5">2</data>
     </node>
     <node id="Volbeat">
@@ -918,7 +918,7 @@
       <data key="d2">1</data>
       <data key="d6">Copenhagen, Denmark</data>
       <data key="d3">2001–present</data>
-      <data key="d4">6.366266416510318</data>
+      <data key="d4">heavy metal hard rock rockabilly psychobilly</data>
       <data key="d5">0</data>
     </node>
     <node id="Filter (band)">
@@ -926,7 +926,7 @@
       <data key="d1">industrial rock post grunge alternative rock industrial metal alternative metal</data>
       <data key="d2">1</data>
       <data key="d6">Cleveland, Ohio, U.S.</data>
-      <data key="d4">6.213459787556904</data>
+      <data key="d4">industrial rock post grunge alternative rock industrial metal alternative metal</data>
       <data key="d5">2</data>
     </node>
     <node id="Shinedown">
@@ -935,7 +935,7 @@
       <data key="d2">1</data>
       <data key="d6">Jacksonville, Florida, U.S.</data>
       <data key="d3">2001–present</data>
-      <data key="d4">6.207868020304568</data>
+      <data key="d4">hard rock alternative metal alternative rock</data>
       <data key="d5">2</data>
     </node>
     <node id="Bullet for My Valentine">
@@ -944,7 +944,7 @@
       <data key="d2">1</data>
       <data key="d6">Bridgend, Wales</data>
       <data key="d3">1998–present</data>
-      <data key="d4">6.0033802816901405</data>
+      <data key="d4">melodic metalcore thrash metal hard rock</data>
       <data key="d5">0</data>
     </node>
     <node id="Korn">
@@ -953,7 +953,7 @@
       <data key="d2">1</data>
       <data key="d6">Bakersfield, California, U.S.</data>
       <data key="d3">1993–present</data>
-      <data key="d4">6.260476939203354</data>
+      <data key="d4">nu metal alternative metal</data>
       <data key="d5">0</data>
     </node>
     <node id="Trivium (band)">
@@ -962,7 +962,7 @@
       <data key="d2">1</data>
       <data key="d6">Orlando, Florida, U.S.</data>
       <data key="d3">1999–present</data>
-      <data key="d4">6.074553264604812</data>
+      <data key="d4">metalcore thrash metal heavy metal progressive metal</data>
       <data key="d5">0</data>
     </node>
     <node id="Seether">
@@ -971,7 +971,7 @@
       <data key="d2">1</data>
       <data key="d6">Pretoria, Gauteng, South Africa</data>
       <data key="d3">1999–present</data>
-      <data key="d4">6.250062421972535</data>
+      <data key="d4">post grunge hard rock alternative rock nu metal</data>
       <data key="d5">2</data>
     </node>
     <node id="Lacuna Coil">
@@ -981,7 +981,7 @@
       <data key="d6">Milan, Lombardy, Italy</data>
       <data key="d3">–present</data>
       <data key="d7">Century Media</data>
-      <data key="d4">6.325178997613365</data>
+      <data key="d4">gothic metal alternative metal</data>
       <data key="d5">0</data>
     </node>
     <node id="Iron Maiden">
@@ -990,7 +990,7 @@
       <data key="d2">1</data>
       <data key="d6">London, England</data>
       <data key="d3">1975–present</data>
-      <data key="d4">6.301620217288615</data>
+      <data key="d4">heavy metal</data>
       <data key="d5">0</data>
     </node>
     <node id="Judas Priest">
@@ -998,14 +998,14 @@
       <data key="d1">heavy metal</data>
       <data key="d2">1</data>
       <data key="d6">Birmingham, England</data>
-      <data key="d4">6.096160249739854</data>
+      <data key="d4">heavy metal</data>
       <data key="d5">0</data>
     </node>
     <node id="Rob Zombie">
       <data key="d0">6895</data>
       <data key="d1">industrial metal shock rock groove metal alternative metal hard rock nu metal</data>
       <data key="d2">1</data>
-      <data key="d4">5.8533685968819595</data>
+      <data key="d4">industrial metal shock rock groove metal alternative metal hard rock nu metal</data>
       <data key="d5">0</data>
     </node>
     <node id="Dire Straits">
@@ -1013,7 +1013,7 @@
       <data key="d1">roots rock blues rock pub rock</data>
       <data key="d2">1</data>
       <data key="d6">London, England</data>
-      <data key="d4">6.32372182517867</data>
+      <data key="d4">roots rock blues rock pub rock</data>
       <data key="d5">3</data>
     </node>
     <node id="Sepultura">
@@ -1022,7 +1022,7 @@
       <data key="d2">1</data>
       <data key="d6">Belo Horizonte, Minas Gerais, Brazil</data>
       <data key="d3">1984–present</data>
-      <data key="d4">6.061117502054231</data>
+      <data key="d4">groove metal thrash metal alternative metal</data>
       <data key="d5">0</data>
     </node>
     <node id="Slayer">
@@ -1030,7 +1030,7 @@
       <data key="d1">thrash metal</data>
       <data key="d2">1</data>
       <data key="d6">Huntington Park, California, U.S.</data>
-      <data key="d4">5.975471615720525</data>
+      <data key="d4">thrash metal</data>
       <data key="d5">0</data>
     </node>
     <node id="Bruce Springsteen">
@@ -1039,7 +1039,7 @@
       <data key="d2">4</data>
       <data key="d3">1964–present</data>
       <data key="d7">Columbia</data>
-      <data key="d4">6.357276237276239</data>
+      <data key="d4">rock;heartland rock;folk;pop rock</data>
       <data key="d5">3</data>
     </node>
     <node id="Marilyn Manson (band)">
@@ -1048,7 +1048,7 @@
       <data key="d2">1</data>
       <data key="d6">Fort Lauderdale, Florida, U.S.</data>
       <data key="d3">–present</data>
-      <data key="d4">6.041109730848861</data>
+      <data key="d4">industrial rock industrial metal gothic rock alternative metal</data>
       <data key="d5">0</data>
     </node>
     <node id="Megadeth">
@@ -1056,7 +1056,7 @@
       <data key="d1">thrash metal; speed metal; heavy metal</data>
       <data key="d2">3</data>
       <data key="d6">Los Angeles, California, U.S.</data>
-      <data key="d4">6.014455755677369</data>
+      <data key="d4">thrash metal;speed metal;heavy metal</data>
       <data key="d5">0</data>
     </node>
     <node id="Bob Seger">
@@ -1064,7 +1064,7 @@
       <data key="d1">rock; heartland rock; roots rock</data>
       <data key="d2">3</data>
       <data key="d3">1961–2019 (One-off: 2023)</data>
-      <data key="d4">6.264153992395437</data>
+      <data key="d4">rock;heartland rock;roots rock</data>
       <data key="d5">3</data>
     </node>
     <node id="Def Leppard">
@@ -1073,7 +1073,7 @@
       <data key="d2">1</data>
       <data key="d6">Sheffield, England</data>
       <data key="d3">1977–present</data>
-      <data key="d4">6.302046511627907</data>
+      <data key="d4">hard rock glam metal power pop</data>
       <data key="d5">0</data>
     </node>
     <node id="Killswitch Engage">
@@ -1082,7 +1082,7 @@
       <data key="d2">1</data>
       <data key="d6">Westfield, Massachusetts, U.S.</data>
       <data key="d3">–present</data>
-      <data key="d4">6.193226042428677</data>
+      <data key="d4">melodic metalcore</data>
       <data key="d5">0</data>
     </node>
     <node id="Avenged Sevenfold">
@@ -1091,7 +1091,7 @@
       <data key="d2">1</data>
       <data key="d6">Huntington Beach, California, U.S.</data>
       <data key="d3">1999–present</data>
-      <data key="d4">6.213190730837789</data>
+      <data key="d4">heavy metal</data>
       <data key="d5">0</data>
     </node>
     <node id="Deftones">
@@ -1100,7 +1100,7 @@
       <data key="d2">1</data>
       <data key="d6">Sacramento, California, U.S.</data>
       <data key="d3">1988–present</data>
-      <data key="d4">6.289713235294117</data>
+      <data key="d4">alternative metal art rock shoegaze</data>
       <data key="d5">2</data>
     </node>
     <node id="Slipknot (band)">
@@ -1110,7 +1110,7 @@
       <data key="d6">Des Moines, Iowa, U.S.</data>
       <data key="d3">1995–present</data>
       <data key="d7">Roadrunner</data>
-      <data key="d4">6.071834034876728</data>
+      <data key="d4">nu metal alternative metal</data>
       <data key="d5">0</data>
     </node>
     <node id="Rage Against the Machine">
@@ -1118,7 +1118,7 @@
       <data key="d1">rap metal rap rock funk metal alternative metal</data>
       <data key="d2">1</data>
       <data key="d6">Los Angeles, California, U.S.</data>
-      <data key="d4">5.861697216564834</data>
+      <data key="d4">rap metal rap rock funk metal alternative metal</data>
       <data key="d5">1</data>
     </node>
     <node id="Third Eye Blind">
@@ -1127,7 +1127,7 @@
       <data key="d2">1</data>
       <data key="d6">San Francisco, California, U.S.</data>
       <data key="d3">1993–present</data>
-      <data key="d4">6.117569141193596</data>
+      <data key="d4">alternative rock pop rock power pop pop punk</data>
       <data key="d5">1</data>
     </node>
     <node id="Faith No More">
@@ -1135,7 +1135,7 @@
       <data key="d1">alternative metal funk metal alternative rock experimental rock</data>
       <data key="d2">1</data>
       <data key="d6">San Francisco, California, U.S.</data>
-      <data key="d4">6.03896819787986</data>
+      <data key="d4">alternative metal funk metal alternative rock experimental rock</data>
       <data key="d5">0</data>
     </node>
     <node id="Harry Chapin">
@@ -1143,7 +1143,7 @@
       <data key="d1">folk rock; pop rock</data>
       <data key="d2">2</data>
       <data key="d3">1968–1981</data>
-      <data key="d4">6.396036960985626</data>
+      <data key="d4">folk rock;pop rock</data>
       <data key="d5">4</data>
     </node>
     <node id="Linkin Park">
@@ -1151,7 +1151,7 @@
       <data key="d1">alternative rock nu metal alternative metal electronic rock pop rock</data>
       <data key="d2">1</data>
       <data key="d6">Agoura Hills, California, U.S.</data>
-      <data key="d4">6.3408145663632</data>
+      <data key="d4">alternative rock nu metal alternative metal electronic rock pop rock</data>
       <data key="d5">1</data>
     </node>
     <node id="America (band)">
@@ -1160,7 +1160,7 @@
       <data key="d2">4</data>
       <data key="d6">London, England</data>
       <data key="d3">1970–present</data>
-      <data key="d4">6.388593406593407</data>
+      <data key="d4">soft rock;folk rock;pop rock;country rock</data>
       <data key="d5">3</data>
     </node>
     <node id="The Who">
@@ -1168,7 +1168,7 @@
       <data key="d1">rock hard rock proto punk</data>
       <data key="d2">1</data>
       <data key="d6">London, England</data>
-      <data key="d4">6.201902671057446</data>
+      <data key="d4">rock hard rock proto punk</data>
       <data key="d5">3</data>
     </node>
     <node id="Three Dog Night">
@@ -1177,7 +1177,7 @@
       <data key="d2">5</data>
       <data key="d6">Los Angeles, California, U.S.</data>
       <data key="d3">1967–1976, 1981–present</data>
-      <data key="d4">6.2925320056899015</data>
+      <data key="d4">pop rock;soft rock;roots rock;funk rock;blue eyed soul</data>
       <data key="d5">3</data>
     </node>
     <node id="Crosby, Stills, Nash &amp; Young">
@@ -1185,7 +1185,7 @@
       <data key="d1">folk rock; soft rock; folk pop</data>
       <data key="d2">3</data>
       <data key="d6">Los Angeles, California, U.S.</data>
-      <data key="d4">6.108602084610669</data>
+      <data key="d4">folk rock;soft rock;folk pop</data>
       <data key="d5">3</data>
     </node>
     <node id="Toto (band)">
@@ -1193,7 +1193,7 @@
       <data key="d1">arena rock pop rock hard rock jazz fusion progressive rock</data>
       <data key="d2">1</data>
       <data key="d6">Van Nuys, Los Angeles, California, U.S.</data>
-      <data key="d4">6.306339155749636</data>
+      <data key="d4">arena rock pop rock hard rock jazz fusion progressive rock</data>
       <data key="d5">3</data>
     </node>
     <node id="Eagles (band)">
@@ -1201,7 +1201,7 @@
       <data key="d1">rock; country rock; soft rock</data>
       <data key="d2">3</data>
       <data key="d6">Los Angeles, California, U.S.</data>
-      <data key="d4">6.276875326030256</data>
+      <data key="d4">rock;country rock;soft rock</data>
       <data key="d5">3</data>
     </node>
     <node id="Journey (band)">
@@ -1209,7 +1209,7 @@
       <data key="d1">arena rock hard rock progressive rock jazz rock</data>
       <data key="d2">1</data>
       <data key="d6">San Francisco, California, U.S.</data>
-      <data key="d4">6.275257950530035</data>
+      <data key="d4">arena rock hard rock progressive rock jazz rock</data>
       <data key="d5">4</data>
     </node>
     <node id="Jackson Browne">
@@ -1218,14 +1218,14 @@
       <data key="d2">5</data>
       <data key="d6">Los Angeles, California, U.S.</data>
       <data key="d3">1964–present</data>
-      <data key="d4">6.452549356223176</data>
+      <data key="d4">rock;folk rock;soft rock;pop rock;country rock</data>
       <data key="d5">3</data>
     </node>
     <node id="George Harrison">
       <data key="d0">12541</data>
       <data key="d1">rock; pop; indian classical</data>
       <data key="d2">3</data>
-      <data key="d4">6.3489097605893186</data>
+      <data key="d4">rock;pop;indian classical</data>
       <data key="d5">3</data>
     </node>
     <node id="Christopher Cross">
@@ -1233,7 +1233,7 @@
       <data key="d1">rock pop soft rock yacht rock</data>
       <data key="d2">1</data>
       <data key="d3">1971–present</data>
-      <data key="d4">6.438036984352773</data>
+      <data key="d4">rock pop soft rock yacht rock</data>
       <data key="d5">3</data>
     </node>
     <node id="John Mayall &amp; the Bluesbreakers">
@@ -1241,7 +1241,7 @@
       <data key="d1">british blues; blues rock</data>
       <data key="d2">2</data>
       <data key="d6">London, England</data>
-      <data key="d4">6.331293532338308</data>
+      <data key="d4">british blues;blues rock</data>
       <data key="d5">3</data>
     </node>
     <node id="Cream (band)">
@@ -1249,7 +1249,7 @@
       <data key="d1">psychedelic rock blues rock acid rock hard rock jam rock</data>
       <data key="d2">1</data>
       <data key="d6">London, England</data>
-      <data key="d4">6.267981366459627</data>
+      <data key="d4">psychedelic rock blues rock acid rock hard rock jam rock</data>
       <data key="d5">3</data>
     </node>
     <node id="Fleetwood Mac">
@@ -1257,7 +1257,7 @@
       <data key="d1">pop rock soft rock blues rock art pop</data>
       <data key="d2">1</data>
       <data key="d6">London, England</data>
-      <data key="d4">6.251089743589744</data>
+      <data key="d4">pop rock soft rock blues rock art pop</data>
       <data key="d5">3</data>
     </node>
     <node id="John Mayall">
@@ -1265,7 +1265,7 @@
       <data key="d1">british blues blues rock jazz rock</data>
       <data key="d2">1</data>
       <data key="d3">1956–2024</data>
-      <data key="d4">6.307306002928258</data>
+      <data key="d4">british blues blues rock jazz rock</data>
       <data key="d5">3</data>
     </node>
     <node id="Jefferson Starship">
@@ -1273,14 +1273,14 @@
       <data key="d1">rock hard rock psychedelic rock progressive rock soft rock</data>
       <data key="d2">1</data>
       <data key="d6">San Francisco, California</data>
-      <data key="d4">6.160322180916976</data>
+      <data key="d4">rock hard rock psychedelic rock progressive rock soft rock</data>
       <data key="d5">3</data>
     </node>
     <node id="Eric Clapton">
       <data key="d0">14326</data>
       <data key="d1">rock blues</data>
       <data key="d2">1</data>
-      <data key="d4">6.282023562023562</data>
+      <data key="d4">rock blues</data>
       <data key="d5">3</data>
     </node>
     <node id="Deep Purple">
@@ -1288,12 +1288,11 @@
       <data key="d1">hard rock; heavy metal; progressive rock</data>
       <data key="d2">3</data>
       <data key="d6">London, England</data>
-      <data key="d4">6.163326588425739</data>
+      <data key="d4">hard rock;heavy metal;progressive rock</data>
       <data key="d5">0</data>
     </node>
     <node id="Poison (American band)">
       <data key="d0">4</data>
-      <data key="d4">4.18</data>
       <data key="d5">0</data>
     </node>
     <node id="Whitesnake">
@@ -1301,7 +1300,7 @@
       <data key="d1">hard rock blues rock glam metal</data>
       <data key="d2">1</data>
       <data key="d6">London, England</data>
-      <data key="d4">6.1838178633975485</data>
+      <data key="d4">hard rock blues rock glam metal</data>
       <data key="d5">0</data>
     </node>
     <node id="Great White">
@@ -1309,7 +1308,7 @@
       <data key="d1">hard rock glam metal</data>
       <data key="d2">1</data>
       <data key="d6">Los Angeles, California, U.S.</data>
-      <data key="d4">6.260505617977529</data>
+      <data key="d4">hard rock glam metal</data>
       <data key="d5">0</data>
     </node>
     <node id="Quiet Riot">
@@ -1317,7 +1316,7 @@
       <data key="d1">heavy metal hard rock glam metal</data>
       <data key="d2">1</data>
       <data key="d6">Los Angeles, California, U.S.</data>
-      <data key="d4">5.814298986486486</data>
+      <data key="d4">heavy metal hard rock glam metal</data>
       <data key="d5">0</data>
     </node>
     <node id="Queensrÿche">
@@ -1326,7 +1325,7 @@
       <data key="d2">1</data>
       <data key="d6">Bellevue, Washington, U.S.</data>
       <data key="d3">1980–present</data>
-      <data key="d4">6.167173274596182</data>
+      <data key="d4">progressive metal heavy metal</data>
       <data key="d5">0</data>
     </node>
     <node id="Alice in Chains">
@@ -1334,7 +1333,7 @@
       <data key="d1">grunge alternative metal alternative rock sludge metal</data>
       <data key="d2">1</data>
       <data key="d6">Seattle, Washington, U.S.</data>
-      <data key="d4">6.1711967871485935</data>
+      <data key="d4">grunge alternative metal alternative rock sludge metal</data>
       <data key="d5">0</data>
     </node>
     <node id="Yes (band)">
@@ -1342,7 +1341,7 @@
       <data key="d1">progressive rock art rock symphonic rock pop rock</data>
       <data key="d2">1</data>
       <data key="d6">London, England</data>
-      <data key="d4">6.33144976685036</data>
+      <data key="d4">progressive rock art rock symphonic rock pop rock</data>
       <data key="d5">3</data>
     </node>
     <node id="AC/DC">
@@ -1351,7 +1350,7 @@
       <data key="d2">1</data>
       <data key="d6">Sydney, Australia</data>
       <data key="d3">1973–present</data>
-      <data key="d4">6.226542977923907</data>
+      <data key="d4">hard rock blues rock heavy metal</data>
       <data key="d5">0</data>
     </node>
     <node id="Ozzy Osbourne">
@@ -1360,7 +1359,7 @@
       <data key="d2">1</data>
       <data key="d6">Aston, Birmingham, England</data>
       <data key="d3">1967–2025</data>
-      <data key="d4">5.9703184957789714</data>
+      <data key="d4">heavy metal hard rock</data>
       <data key="d5">0</data>
     </node>
     <node id="Twisted Sister">
@@ -1368,7 +1367,7 @@
       <data key="d1">heavy metal glam metal hard rock shock rock</data>
       <data key="d2">1</data>
       <data key="d6">Ho-Ho-Kus, New Jersey, U.S.</data>
-      <data key="d4">6.1691415094339614</data>
+      <data key="d4">heavy metal glam metal hard rock shock rock</data>
       <data key="d5">0</data>
     </node>
     <node id="System of a Down">
@@ -1376,7 +1375,7 @@
       <data key="d1">alternative metal nu metal hard rock progressive metal</data>
       <data key="d2">1</data>
       <data key="d6">Glendale, California, U.S.</data>
-      <data key="d4">6.012637681159419</data>
+      <data key="d4">alternative metal nu metal hard rock progressive metal</data>
       <data key="d5">0</data>
     </node>
     <node id="Black Sabbath">
@@ -1384,7 +1383,7 @@
       <data key="d1">heavy metal</data>
       <data key="d2">1</data>
       <data key="d6">Birmingham, England</data>
-      <data key="d4">5.999767441860465</data>
+      <data key="d4">heavy metal</data>
       <data key="d5">0</data>
     </node>
     <node id="White Zombie (band)">
@@ -1393,7 +1392,7 @@
       <data key="d2">1</data>
       <data key="d6">New York City, U.S.</data>
       <data key="d3">1985–1998</data>
-      <data key="d4">5.860820433436532</data>
+      <data key="d4">groove metal stoner rock dance rock industrial metal alternative metal noise rock</data>
       <data key="d5">0</data>
     </node>
     <node id="Bill Haley &amp; His Comets">
@@ -1403,19 +1402,18 @@
       <data key="d6">Chester, Pennsylvania, U.S.</data>
       <data key="d3">1947–1981</data>
       <data key="d7">London (UK)</data>
-      <data key="d4">6.01808747220163</data>
+      <data key="d4">rock and roll;rockabilly;western swing</data>
       <data key="d5">3</data>
     </node>
     <node id="Bee Gees">
       <data key="d0">10865</data>
       <data key="d1">disco pop soul rock soft rock</data>
       <data key="d2">1</data>
-      <data key="d4">6.281876314682373</data>
+      <data key="d4">disco pop soul rock soft rock</data>
       <data key="d5">3</data>
     </node>
     <node id="Stevie Nicks">
       <data key="d0">9266</data>
-      <data key="d4">6.354067567567568</data>
       <data key="d5">3</data>
     </node>
     <node id="Queens of the Stone Age">
@@ -1424,7 +1422,7 @@
       <data key="d2">4</data>
       <data key="d6">Seattle, Washington, U.S.</data>
       <data key="d3">–present</data>
-      <data key="d4">6.272047128129602</data>
+      <data key="d4">alternative rock;stoner rock;desert rock;alternative metal</data>
       <data key="d5">1</data>
     </node>
     <node id="Robert Plant">
@@ -1432,7 +1430,7 @@
       <data key="d1">rock; blues; folk; country; hard rock; heavy metal</data>
       <data key="d2">6</data>
       <data key="d6">Halesowen, Worcestershire, England</data>
-      <data key="d4">6.44271676300578</data>
+      <data key="d4">rock;blues;folk;country;hard rock;heavy metal</data>
       <data key="d5">3</data>
     </node>
     <node id="Billy Joel">
@@ -1440,21 +1438,21 @@
       <data key="d1">rock soft rock</data>
       <data key="d2">1</data>
       <data key="d6">Hicksville, New York, U.S.</data>
-      <data key="d4">6.382252949852507</data>
+      <data key="d4">rock soft rock</data>
       <data key="d5">3</data>
     </node>
     <node id="Buddy Holly">
       <data key="d0">7814</data>
       <data key="d1">rock and roll; rockabilly; pop; country</data>
       <data key="d2">4</data>
-      <data key="d4">6.265951515151515</data>
+      <data key="d4">rock and roll;rockabilly;pop;country</data>
       <data key="d5">3</data>
     </node>
     <node id="Jerry Lee Lewis">
       <data key="d0">7075</data>
       <data key="d1">rock and roll rockabilly country gospel blues</data>
       <data key="d2">1</data>
-      <data key="d4">6.221135066582118</data>
+      <data key="d4">rock and roll rockabilly country gospel blues</data>
       <data key="d5">3</data>
     </node>
     <node id="Jack White">
@@ -1462,21 +1460,21 @@
       <data key="d1">blues rock; garage rock revival; alternative rock; punk blues; experimental rock</data>
       <data key="d2">5</data>
       <data key="d3">1987–present</data>
-      <data key="d4">6.238113975576662</data>
+      <data key="d4">blues rock;garage rock revival;alternative rock;punk blues;experimental rock</data>
       <data key="d5">3</data>
     </node>
     <node id="Rod Stewart">
       <data key="d0">11416</data>
       <data key="d1">rock pop blue eyed soul blues rock folk rock soft rock disco traditional pop</data>
       <data key="d2">1</data>
-      <data key="d4">6.333247484909457</data>
+      <data key="d4">rock pop blue eyed soul blues rock folk rock soft rock disco traditional pop</data>
       <data key="d5">3</data>
     </node>
     <node id="Sting (musician)">
       <data key="d0">8256</data>
       <data key="d1">pop; new wave; post punk; soft rock</data>
       <data key="d2">4</data>
-      <data key="d4">6.2081238095238085</data>
+      <data key="d4">pop;new wave;post punk;soft rock</data>
       <data key="d5">3</data>
     </node>
     <node id="Elvis Costello">
@@ -1484,14 +1482,14 @@
       <data key="d1">rock pop new wave power pop punk rock pub rockcarr, roy. "pub rock" . nme. 29 october 1977.</data>
       <data key="d2">1</data>
       <data key="d3">1970–present</data>
-      <data key="d4">6.379993777224642</data>
+      <data key="d4">rock pop new wave power pop punk rock pub rockcarr, roy. "pub rock" . nme. 29 october 1977.</data>
       <data key="d5">1</data>
     </node>
     <node id="Phil Collins">
       <data key="d0">13936</data>
       <data key="d1">pop soft rock progressive rock art rock</data>
       <data key="d2">1</data>
-      <data key="d4">6.251042207792207</data>
+      <data key="d4">pop soft rock progressive rock art rock</data>
       <data key="d5">3</data>
     </node>
     <node id="The Go-Go's">
@@ -1499,7 +1497,7 @@
       <data key="d1">new wave pop rock power pop post punk punk rock</data>
       <data key="d2">1</data>
       <data key="d6">Los Angeles, California, U.S.</data>
-      <data key="d4">6.2591127819548875</data>
+      <data key="d4">new wave pop rock power pop post punk punk rock</data>
       <data key="d5">3</data>
     </node>
     <node id="Green Day">
@@ -1508,7 +1506,7 @@
       <data key="d2">1</data>
       <data key="d6">Rodeo, California, U.S.</data>
       <data key="d3">1987–present</data>
-      <data key="d4">6.258872798434443</data>
+      <data key="d4">punk rock pop punk</data>
       <data key="d5">1</data>
     </node>
     <node id="The Bangles">
@@ -1516,14 +1514,14 @@
       <data key="d1">pop rock; power pop; new wave; paisley underground</data>
       <data key="d2">4</data>
       <data key="d6">Los Angeles, California, U.S.</data>
-      <data key="d4">6.442439446366782</data>
+      <data key="d4">pop rock;power pop;new wave;paisley underground</data>
       <data key="d5">3</data>
     </node>
     <node id="Billy Idol">
       <data key="d0">4246</data>
       <data key="d1">new wave; hard rock; pop rock; punk rock</data>
       <data key="d2">4</data>
-      <data key="d4">6.347164685908319</data>
+      <data key="d4">new wave;hard rock;pop rock;punk rock</data>
       <data key="d5">1</data>
     </node>
     <node id="The Police">
@@ -1531,12 +1529,11 @@
       <data key="d1">new wave reggae rock pop rock</data>
       <data key="d2">1</data>
       <data key="d6">London, England</data>
-      <data key="d4">6.201759388038944</data>
+      <data key="d4">new wave reggae rock pop rock</data>
       <data key="d5">3</data>
     </node>
     <node id="Dallas Green (musician)">
       <data key="d0">4</data>
-      <data key="d4">6.58</data>
       <data key="d5">2</data>
     </node>
     <node id="Blink-182">
@@ -1544,7 +1541,7 @@
       <data key="d1">pop punk punk rock alternative rock</data>
       <data key="d2">1</data>
       <data key="d6">Poway, California, U.S.</data>
-      <data key="d4">6.176843636363636</data>
+      <data key="d4">pop punk punk rock alternative rock</data>
       <data key="d5">1</data>
     </node>
     <node id="Nine Inch Nails">
@@ -1553,7 +1550,7 @@
       <data key="d2">1</data>
       <data key="d6">Cleveland, Ohio, U.S.</data>
       <data key="d3">1988–present</data>
-      <data key="d4">6.099706362153344</data>
+      <data key="d4">industrial rock industrial electronic rock industrial metal ambient</data>
       <data key="d5">1</data>
     </node>
     <node id="Blondie (band)">
@@ -1561,7 +1558,7 @@
       <data key="d1">new wave punk rock pop rock pop disco</data>
       <data key="d2">1</data>
       <data key="d6">New York City, U.S.</data>
-      <data key="d4">6.329249628528974</data>
+      <data key="d4">new wave punk rock pop rock pop disco</data>
       <data key="d5">1</data>
     </node>
     <node id="Weezer">
@@ -1570,7 +1567,7 @@
       <data key="d2">1</data>
       <data key="d6">Los Angeles, California, U.S.</data>
       <data key="d3">1992–present</data>
-      <data key="d4">6.375410714285715</data>
+      <data key="d4">alternative rock power pop geek rock pop punk emo</data>
       <data key="d5">1</data>
     </node>
     <node id="AFI (band)">
@@ -1579,7 +1576,7 @@
       <data key="d2">1</data>
       <data key="d6">Ukiah, California, U.S.</data>
       <data key="d3">1991–present</data>
-      <data key="d4">6.128348045397226</data>
+      <data key="d4">punk rock gothic rock post hardcore emo hardcore punk</data>
       <data key="d5">1</data>
     </node>
     <node id="Death Cab for Cutie">
@@ -1588,7 +1585,7 @@
       <data key="d2">1</data>
       <data key="d6">Bellingham, Washington, U.S.</data>
       <data key="d3">1997–present</data>
-      <data key="d4">6.3072144846796645</data>
+      <data key="d4">indie rock alternative rock indie pop emo</data>
       <data key="d5">1</data>
     </node>
     <node id="John Mayer">
@@ -1596,7 +1593,7 @@
       <data key="d1">rock pop blues</data>
       <data key="d2">1</data>
       <data key="d3">1998–present</data>
-      <data key="d4">6.36771743742045</data>
+      <data key="d4">rock pop blues</data>
       <data key="d5">3</data>
     </node>
     <node id="Jimmy Eat World">
@@ -1605,7 +1602,7 @@
       <data key="d2">1</data>
       <data key="d6">Mesa, Arizona, U.S.</data>
       <data key="d3">1993–present</data>
-      <data key="d4">6.355065398335315</data>
+      <data key="d4">alternative rock emo pop punk power pop pop rock</data>
       <data key="d5">1</data>
     </node>
     <node id="Creed (band)">
@@ -1613,7 +1610,7 @@
       <data key="d1">post grunge hard rock alternative metal</data>
       <data key="d2">1</data>
       <data key="d6">Tallahassee, Florida, U.S.</data>
-      <data key="d4">6.214355597365946</data>
+      <data key="d4">post grunge hard rock alternative metal</data>
       <data key="d5">2</data>
     </node>
     <node id="No Doubt">
@@ -1621,7 +1618,7 @@
       <data key="d1">ska punk pop rock alternative rock pop punk reggae</data>
       <data key="d2">1</data>
       <data key="d6">Anaheim, California, U.S.</data>
-      <data key="d4">6.032389675270608</data>
+      <data key="d4">ska punk pop rock alternative rock pop punk reggae</data>
       <data key="d5">1</data>
     </node>
     <node id="My Chemical Romance">
@@ -1629,7 +1626,7 @@
       <data key="d1">alternative rock emo post hardcore</data>
       <data key="d2">1</data>
       <data key="d6">New Jersey, U.S.</data>
-      <data key="d4">6.2869246031746036</data>
+      <data key="d4">alternative rock emo post hardcore</data>
       <data key="d5">1</data>
     </node>
     <node id="Foo Fighters">
@@ -1638,14 +1635,14 @@
       <data key="d2">1</data>
       <data key="d6">Seattle, Washington, U.S.</data>
       <data key="d3">1994–present</data>
-      <data key="d4">6.315388888888889</data>
+      <data key="d4">alternative rock post grunge</data>
       <data key="d5">1</data>
     </node>
     <node id="Avril Lavigne">
       <data key="d0">9025</data>
       <data key="d1">pop punk alternative rock pop rock pop</data>
       <data key="d2">1</data>
-      <data key="d4">6.367678968430414</data>
+      <data key="d4">pop punk alternative rock pop rock pop</data>
       <data key="d5">1</data>
     </node>
     <node id="Breaking Benjamin">
@@ -1653,7 +1650,7 @@
       <data key="d1">hard rock post grunge alternative metal</data>
       <data key="d2">1</data>
       <data key="d6">Wilkes-Barre, Pennsylvania, U.S.</data>
-      <data key="d4">5.985843330980945</data>
+      <data key="d4">hard rock post grunge alternative metal</data>
       <data key="d5">2</data>
     </node>
     <node id="The Everly Brothers">
@@ -1663,7 +1660,7 @@
       <data key="d6">Knoxville, Tennessee, U.S.</data>
       <data key="d3">1956–1973, 1983–2005</data>
       <data key="d7">Cadence, London, Heliodor, Warner Bros., RCA Victor, Razor &amp; Tie, Mercury</data>
-      <data key="d4">6.264015080113101</data>
+      <data key="d4">rock and roll rockabilly country rock country</data>
       <data key="d5">3</data>
     </node>
     <node id="Simon &amp; Garfunkel">
@@ -1672,7 +1669,7 @@
       <data key="d2">1</data>
       <data key="d6">Forest Hills, Queens, New York City, U.S.</data>
       <data key="d7">Columbia</data>
-      <data key="d4">6.442431781701444</data>
+      <data key="d4">folk rock</data>
       <data key="d5">3</data>
     </node>
     <node id="Linda Ronstadt">
@@ -1680,7 +1677,7 @@
       <data key="d1">country; rock; pop</data>
       <data key="d2">3</data>
       <data key="d3">19652011</data>
-      <data key="d4">6.462795067527892</data>
+      <data key="d4">country;rock;pop</data>
       <data key="d5">3</data>
     </node>
     <node id="Hall &amp; Oates">
@@ -1689,7 +1686,7 @@
       <data key="d2">1</data>
       <data key="d6">Philadelphia, Pennsylvania, U.S.</data>
       <data key="d3">1970–2024</data>
-      <data key="d4">6.404516129032259</data>
+      <data key="d4">pop rock blue eyed soul soft rock r and b</data>
       <data key="d5">3</data>
     </node>
     <node id="Neil Young">
@@ -1697,14 +1694,14 @@
       <data key="d1">rock; folk rock; country rock</data>
       <data key="d2">3</data>
       <data key="d6">Winnipeg, Manitoba, Canada</data>
-      <data key="d4">6.35395952884325</data>
+      <data key="d4">rock;folk rock;country rock</data>
       <data key="d5">1</data>
     </node>
     <node id="Beck">
       <data key="d0">7600</data>
       <data key="d1">alternative rock folk rock psychedelia electronic alt country lo fi</data>
       <data key="d2">1</data>
-      <data key="d4">6.312532013969732</data>
+      <data key="d4">alternative rock folk rock psychedelia electronic alt country lo fi</data>
       <data key="d5">1</data>
     </node>
     <node id="Soundgarden">
@@ -1712,7 +1709,7 @@
       <data key="d1">grunge heavy metal alternative metal</data>
       <data key="d2">1</data>
       <data key="d6">Seattle, Washington, U.S.</data>
-      <data key="d4">6.199275898520084</data>
+      <data key="d4">grunge heavy metal alternative metal</data>
       <data key="d5">2</data>
     </node>
     <node id="Creedence Clearwater Revival">
@@ -1722,7 +1719,7 @@
       <data key="d6">El Cerrito, California, U.S.</data>
       <data key="d3">1959–1972</data>
       <data key="d7">Fantasy</data>
-      <data key="d4">6.235053571428572</data>
+      <data key="d4">swamp rock roots rock blues rock country rock southern rock</data>
       <data key="d5">3</data>
     </node>
     <node id="Iggy Pop">
@@ -1731,7 +1728,7 @@
       <data key="d2">5</data>
       <data key="d6">Ann Arbor, Michigan, U.S</data>
       <data key="d3">1963–present</data>
-      <data key="d4">6.280392156862745</data>
+      <data key="d4">rock;punk rock;proto punk;hard rock;garage rock</data>
       <data key="d5">1</data>
     </node>
     <node id="Pixies (band)">
@@ -1739,7 +1736,7 @@
       <data key="d1">alternative rock; indie rock; noise pop; punk rock; surf rock</data>
       <data key="d2">5</data>
       <data key="d6">Boston, Massachusetts, U.S.</data>
-      <data key="d4">6.350059701492537</data>
+      <data key="d4">alternative rock;indie rock;noise pop;punk rock;surf rock</data>
       <data key="d5">1</data>
     </node>
     <node id="Sonic Youth">
@@ -1748,7 +1745,7 @@
       <data key="d2">1</data>
       <data key="d6">New York City, U.S.</data>
       <data key="d3">1981–2011</data>
-      <data key="d4">6.233010858835142</data>
+      <data key="d4">noise rock alternative rock experimental rock indie rock no wave</data>
       <data key="d5">1</data>
     </node>
     <node id="R.E.M.">
@@ -1756,7 +1753,7 @@
       <data key="d1">alternative rock jangle pop folk rock college rock post punk</data>
       <data key="d2">1</data>
       <data key="d6">Athens, Georgia, U.S.</data>
-      <data key="d4">6.31349239643419</data>
+      <data key="d4">alternative rock jangle pop folk rock college rock post punk</data>
       <data key="d5">1</data>
     </node>
     <node id="Silverchair">
@@ -1764,7 +1761,7 @@
       <data key="d1">alternative rock grunge post grunge</data>
       <data key="d2">1</data>
       <data key="d6">Newcastle, New South Wales, Australia</data>
-      <data key="d4">6.371094890510949</data>
+      <data key="d4">alternative rock grunge post grunge</data>
       <data key="d5">1</data>
     </node>
     <node id="The Doors">
@@ -1773,7 +1770,7 @@
       <data key="d2">2</data>
       <data key="d6">Los Angeles, California, U.S.</data>
       <data key="d3">*</data>
-      <data key="d4">6.237408123791103</data>
+      <data key="d4">psychedelic rock;acid rock</data>
       <data key="d5">1</data>
     </node>
     <node id="Tool (band)">
@@ -1782,7 +1779,7 @@
       <data key="d2">4</data>
       <data key="d6">Los Angeles, California, U.S.</data>
       <data key="d3">1990–present</data>
-      <data key="d4">6.299741985926506</data>
+      <data key="d4">alternative metal;art rock;progressive metal;progressive rock</data>
       <data key="d5">0</data>
     </node>
     <node id="INXS">
@@ -1791,7 +1788,7 @@
       <data key="d2">1</data>
       <data key="d6">Sydney, New South Wales, Australia</data>
       <data key="d3">1977–2012</data>
-      <data key="d4">6.2386279069767445</data>
+      <data key="d4">new wave pub rock dance rock funk rock alternative rock</data>
       <data key="d5">1</data>
     </node>
     <node id="The Offspring">
@@ -1800,14 +1797,14 @@
       <data key="d2">1</data>
       <data key="d6">Garden Grove, California, U.S.</data>
       <data key="d3">1984–present</data>
-      <data key="d4">6.249278033794164</data>
+      <data key="d4">punk rock skate punk alternative rock</data>
       <data key="d5">1</data>
     </node>
     <node id="Donovan">
       <data key="d0">6833</data>
       <data key="d1">folk; pop; psychedelia; rock</data>
       <data key="d2">4</data>
-      <data key="d4">6.3344829931972795</data>
+      <data key="d4">folk;pop;psychedelia;rock</data>
       <data key="d5">3</data>
     </node>
     <node id="Jefferson Airplane">
@@ -1816,7 +1813,7 @@
       <data key="d2">1</data>
       <data key="d6">San Francisco, California, U.S.</data>
       <data key="d3">1965–1973, 1989, 1996</data>
-      <data key="d4">6.215625000000001</data>
+      <data key="d4">psychedelic rock acid rock folk rock</data>
       <data key="d5">3</data>
     </node>
     <node id="The Animals">
@@ -1824,7 +1821,7 @@
       <data key="d1">blues rock; r and b; psychedelic rock; progressive rock; rock and roll</data>
       <data key="d2">5</data>
       <data key="d6">Newcastle upon Tyne, England</data>
-      <data key="d4">6.262404371584699</data>
+      <data key="d4">blues rock;r and b;psychedelic rock;progressive rock;rock and roll</data>
       <data key="d5">3</data>
     </node>
     <node id="Herman's Hermits">
@@ -1833,7 +1830,7 @@
       <data key="d2">3</data>
       <data key="d6">Manchester, England</data>
       <data key="d3">1963–present</data>
-      <data key="d4">6.28562874251497</data>
+      <data key="d4">beat;pop rock;bubblegumallmusic.com biography. retrieved 7 march 2011.</data>
       <data key="d5">3</data>
     </node>
     <node id="The Flaming Lips">
@@ -1842,7 +1839,7 @@
       <data key="d2">1</data>
       <data key="d6">Oklahoma City, Oklahoma, U.S.</data>
       <data key="d3">1983–present</data>
-      <data key="d4">6.2047423352902795</data>
+      <data key="d4">neo psychedelia experimental rock alternative rock indie rock psychedelic rock</data>
       <data key="d5">1</data>
     </node>
     <node id="The Moody Blues">
@@ -1850,7 +1847,7 @@
       <data key="d1">progressive rock; art rock; psychedelic rock; pop rock</data>
       <data key="d2">4</data>
       <data key="d6">Birmingham, England</data>
-      <data key="d4">6.220346117867165</data>
+      <data key="d4">progressive rock;art rock;psychedelic rock;pop rock</data>
       <data key="d5">3</data>
     </node>
     <node id="The Zombies">
@@ -1858,14 +1855,14 @@
       <data key="d1">rock; beat; baroque pop; r and byeah yeah yeah the story of modern pop by bob stanley · 2013; proto prog</data>
       <data key="d2">5</data>
       <data key="d6">St Albans, Hertfordshire, England</data>
-      <data key="d4">6.255714285714285</data>
+      <data key="d4">rock;beat;baroque pop;r and byeah yeah yeah the story of modern pop by bob stanley · 2013;proto prog</data>
       <data key="d5">3</data>
     </node>
     <node id="Ringo Starr">
       <data key="d0">11328</data>
       <data key="d1">rock; pop</data>
       <data key="d2">2</data>
-      <data key="d4">6.285811860940695</data>
+      <data key="d4">rock;pop</data>
       <data key="d5">3</data>
     </node>
     <node id="Dropkick Murphys">
@@ -1874,7 +1871,7 @@
       <data key="d2">1</data>
       <data key="d6">Quincy, Massachusetts, U.S.</data>
       <data key="d3">1996–present</data>
-      <data key="d4">6.2224777370350965</data>
+      <data key="d4">celtic punk folk punk oi!</data>
       <data key="d5">1</data>
     </node>
     <node id="April Wine">
@@ -1884,7 +1881,7 @@
       <data key="d6">Waverley, Nova Scotia, Canada</data>
       <data key="d3">1969–1985, 1992–present</data>
       <data key="d7">Aquarius, MCA, Capitol, DIR Broadcasting, Cherry Red, London, Flood Ross, Civilian, Universal, BGO, Telemedia Communications, PIAS</data>
-      <data key="d4">6.429582733812949</data>
+      <data key="d4">hard rock</data>
       <data key="d5">4</data>
     </node>
     <node id="Jethro Tull (band)">
@@ -1892,7 +1889,7 @@
       <data key="d1">progressive rock folk rock blues rock</data>
       <data key="d2">1</data>
       <data key="d6">Blackpool, Lancashire, England</data>
-      <data key="d4">6.315855039637599</data>
+      <data key="d4">progressive rock folk rock blues rock</data>
       <data key="d5">3</data>
     </node>
     <node id="Loverboy">
@@ -1900,7 +1897,7 @@
       <data key="d1">arena rock hard rock pop rock</data>
       <data key="d2">1</data>
       <data key="d6">Calgary, Alberta, Canada</data>
-      <data key="d4">6.380803212851405</data>
+      <data key="d4">arena rock hard rock pop rock</data>
       <data key="d5">4</data>
     </node>
     <node id="Badfinger">
@@ -1908,7 +1905,7 @@
       <data key="d1">rock power pop</data>
       <data key="d2">1</data>
       <data key="d6">Swansea, Wales</data>
-      <data key="d4">6.164043427230046</data>
+      <data key="d4">rock power pop</data>
       <data key="d5">3</data>
     </node>
     <node id="Blue Öyster Cult">
@@ -1916,7 +1913,7 @@
       <data key="d1">hard rock heavy metal occult rock psychedelic rock progressive rock acid rock</data>
       <data key="d2">1</data>
       <data key="d6">Stony Brook, New York, U.S.</data>
-      <data key="d4">6.302197628458498</data>
+      <data key="d4">hard rock heavy metal occult rock psychedelic rock progressive rock acid rock</data>
       <data key="d5">0</data>
     </node>
     <node id="The Guess Who">
@@ -1924,7 +1921,7 @@
       <data key="d1">hard rock; psychedelic rock; blues rock; garage rock</data>
       <data key="d2">4</data>
       <data key="d6">Winnipeg, Manitoba, Canada</data>
-      <data key="d4">6.260750988142292</data>
+      <data key="d4">hard rock;psychedelic rock;blues rock;garage rock</data>
       <data key="d5">4</data>
     </node>
     <node id="Eddie Money">
@@ -1932,7 +1929,7 @@
       <data key="d1">rock; pop rock; hard rock</data>
       <data key="d2">3</data>
       <data key="d6">Berkeley, California</data>
-      <data key="d4">6.263019693654266</data>
+      <data key="d4">rock;pop rock;hard rock</data>
       <data key="d5">4</data>
     </node>
     <node id="Peter Frampton">
@@ -1940,7 +1937,7 @@
       <data key="d1">rock</data>
       <data key="d2">1</data>
       <data key="d3">1966–present</data>
-      <data key="d4">6.3085255198487715</data>
+      <data key="d4">rock</data>
       <data key="d5">3</data>
     </node>
     <node id="Uriah Heep (band)">
@@ -1949,7 +1946,7 @@
       <data key="d2">1</data>
       <data key="d6">London, England</data>
       <data key="d3">1969–present</data>
-      <data key="d4">6.1379645390070925</data>
+      <data key="d4">hard rock progressive rock heavy metal</data>
       <data key="d5">0</data>
     </node>
     <node id="Bachman–Turner Overdrive">
@@ -1957,7 +1954,7 @@
       <data key="d1">rock; hard rock; boogie rock</data>
       <data key="d2">3</data>
       <data key="d6">Winnipeg, Manitoba, Canada</data>
-      <data key="d4">6.222688458972648</data>
+      <data key="d4">rock;hard rock;boogie rock</data>
       <data key="d5">3</data>
     </node>
     <node id="Everlast">
@@ -1966,7 +1963,7 @@
       <data key="d2">1</data>
       <data key="d6">Los Angeles, California, U.S.</data>
       <data key="d3">1987–present</data>
-      <data key="d4">6.187176684881603</data>
+      <data key="d4">hip hop folk rock blues</data>
       <data key="d5">1</data>
     </node>
     <node id="Santana (band)">
@@ -1975,7 +1972,7 @@
       <data key="d2">7</data>
       <data key="d6">San Francisco, California, U.S.</data>
       <data key="d3">1966–present</data>
-      <data key="d4">6.3083177570093465</data>
+      <data key="d4">latin rock;blues rock;psychedelic rock;acid rock;chicano rock;jazz fusion;yacht rock</data>
       <data key="d5">4</data>
     </node>
     <node id="Tom Petty">
@@ -1983,7 +1980,7 @@
       <data key="d1">rock heartland rock country rock southern rock</data>
       <data key="d2">1</data>
       <data key="d3">1967–2017</data>
-      <data key="d4">6.200314049586777</data>
+      <data key="d4">rock heartland rock country rock southern rock</data>
       <data key="d5">3</data>
     </node>
     <node id="Sheryl Crow">
@@ -1991,7 +1988,7 @@
       <data key="d1">country rock pop folk blues heartland rock</data>
       <data key="d2">1</data>
       <data key="d3">1983–present</data>
-      <data key="d4">6.359387351778656</data>
+      <data key="d4">country rock pop folk blues heartland rock</data>
       <data key="d5">3</data>
     </node>
     <node id="The Pretenders">
@@ -2000,7 +1997,7 @@
       <data key="d2">4</data>
       <data key="d6">Hereford, England</data>
       <data key="d3">1978–present</data>
-      <data key="d4">6.116866197183099</data>
+      <data key="d4">rock;pop rock;new wave;alternative rock</data>
       <data key="d5">1</data>
     </node>
     <node id="Tom Petty and the Heartbreakers">
@@ -2009,7 +2006,7 @@
       <data key="d2">1</data>
       <data key="d6">Gainesville, Florida, U.S.</data>
       <data key="d3">1976–2017</data>
-      <data key="d4">6.14198606271777</data>
+      <data key="d4">rock heartland rock</data>
       <data key="d5">3</data>
     </node>
     <node id="Crowded House">
@@ -2017,7 +2014,7 @@
       <data key="d1">pop rock; jangle pop; alternative rock</data>
       <data key="d2">3</data>
       <data key="d6">Melbourne, Victoria, Australia</data>
-      <data key="d4">6.23737660581474</data>
+      <data key="d4">pop rock;jangle pop;alternative rock</data>
       <data key="d5">1</data>
     </node>
     <node id="Hole (band)">
@@ -2025,7 +2022,7 @@
       <data key="d1">alternative rock; grunge; punk rock; noise rock; power pop</data>
       <data key="d2">5</data>
       <data key="d6">Hollywood, Los Angeles, California, U.S.</data>
-      <data key="d4">6.310271002710028</data>
+      <data key="d4">alternative rock;grunge;punk rock;noise rock;power pop</data>
       <data key="d5">1</data>
     </node>
     <node id="Janis Joplin">
@@ -2034,7 +2031,7 @@
       <data key="d2">4</data>
       <data key="d3">1962–1970</data>
       <data key="d7">Columbia Records</data>
-      <data key="d4">6.210169026952946</data>
+      <data key="d4">psychedelic rock;blues rock;soul;blues</data>
       <data key="d5">3</data>
     </node>
     <node id="Don Henley">
@@ -2043,7 +2040,7 @@
       <data key="d2">5</data>
       <data key="d6">Linden, Texas, U.S.</data>
       <data key="d3">1970–present</data>
-      <data key="d4">6.252363112391931</data>
+      <data key="d4">rock;country rock;pop rock;hard rock;folk rock</data>
       <data key="d5">3</data>
     </node>
     <node id="Joe Walsh">
@@ -2051,7 +2048,7 @@
       <data key="d1">hard rock; blues rock; pop rock; progressive rock; country rock</data>
       <data key="d2">5</data>
       <data key="d3">1965–present</data>
-      <data key="d4">6.2243157262905155</data>
+      <data key="d4">hard rock;blues rock;pop rock;progressive rock;country rock</data>
       <data key="d5">3</data>
     </node>
     <node id="The Fray">
@@ -2061,7 +2058,7 @@
       <data key="d6">Denver, Colorado, U.S.</data>
       <data key="d3">2002–present</data>
       <data key="d7">Epic</data>
-      <data key="d4">6.378205383848455</data>
+      <data key="d4">alternative rock;pop rock;soft rock;christian rock</data>
       <data key="d5">1</data>
     </node>
     <node id="Keane (band)">
@@ -2069,7 +2066,7 @@
       <data key="d1">alternative rock rock "piano driven rock quartet" "mainstream rock" post britpopandy bennett, jon stratton , britpop and the english music tradition, ashgate publishing, p. 164. soft rock</data>
       <data key="d2">1</data>
       <data key="d6">Battle, East Sussex, England</data>
-      <data key="d4">6.4095378151260505</data>
+      <data key="d4">alternative rock rock "piano driven rock quartet" "mainstream rock" post britpopandy bennett, jon stratton , britpop and the english music tradition, ashgate publishing, p. 164. soft rock</data>
       <data key="d5">1</data>
     </node>
     <node id="Coldplay">
@@ -2078,7 +2075,7 @@
       <data key="d2">1</data>
       <data key="d6">London, England</data>
       <data key="d3">1997–present</data>
-      <data key="d4">6.447002977174991</data>
+      <data key="d4">alternative rock pop rock pop</data>
       <data key="d5">1</data>
     </node>
     <node id="Counting Crows">
@@ -2087,7 +2084,7 @@
       <data key="d2">1</data>
       <data key="d6">San Francisco Bay Area, California, United States</data>
       <data key="d3">–present</data>
-      <data key="d4">6.547374136229022</data>
+      <data key="d4">alternative rock roots rock pop rock</data>
       <data key="d5">2</data>
     </node>
     <node id="Grand Funk Railroad">
@@ -2095,7 +2092,7 @@
       <data key="d1">hard rock; arena rock</data>
       <data key="d2">2</data>
       <data key="d6">Flint, Michigan, U.S.</data>
-      <data key="d4">6.180237341772153</data>
+      <data key="d4">hard rock;arena rock</data>
       <data key="d5">3</data>
     </node>
     <node id="Slade">
@@ -2104,7 +2101,7 @@
       <data key="d2">1</data>
       <data key="d6">Wolverhampton, Staffordshire, England</data>
       <data key="d3">1963–present</data>
-      <data key="d4">6.261626853377265</data>
+      <data key="d4">glam rock</data>
       <data key="d5">0</data>
     </node>
     <node id="REO Speedwagon">
@@ -2112,7 +2109,7 @@
       <data key="d1">arena rock; pop rock; hard rock; aor; blues rock</data>
       <data key="d2">5</data>
       <data key="d6">Champaign, Illinois, U.S.</data>
-      <data key="d4">6.241952141057934</data>
+      <data key="d4">arena rock;pop rock;hard rock;aor;blues rock</data>
       <data key="d5">4</data>
     </node>
     <node id="Chicago (band)">
@@ -2121,7 +2118,7 @@
       <data key="d2">1</data>
       <data key="d6">Chicago, Illinois, United States</data>
       <data key="d3">1967–present</data>
-      <data key="d4">6.45525459991442</data>
+      <data key="d4">rock soft rock pop rock jazz rock</data>
       <data key="d5">4</data>
     </node>
     <node id="38 Special (band)">
@@ -2131,7 +2128,7 @@
       <data key="d6">Jacksonville, Florida, US</data>
       <data key="d3">1974–present</data>
       <data key="d7">A&amp;M</data>
-      <data key="d4">6.252687385740403</data>
+      <data key="d4">hard rock;southern rock;boogie rock;blues rock</data>
       <data key="d5">4</data>
     </node>
     <node id="Status Quo (band)">
@@ -2139,7 +2136,7 @@
       <data key="d1">rock; boogie rock; hard rock; psychedelia</data>
       <data key="d2">4</data>
       <data key="d6">London, England</data>
-      <data key="d4">6.22544142614601</data>
+      <data key="d4">rock;boogie rock;hard rock;psychedelia</data>
       <data key="d5">3</data>
     </node>
     <node id="Pat Benatar">
@@ -2147,7 +2144,7 @@
       <data key="d1">rock; hard rock; pop rock</data>
       <data key="d2">3</data>
       <data key="d3">1972–present</data>
-      <data key="d4">6.38113314447592</data>
+      <data key="d4">rock;hard rock;pop rock</data>
       <data key="d5">4</data>
     </node>
     <node id="Ambrosia (band)">
@@ -2156,7 +2153,7 @@
       <data key="d2">1</data>
       <data key="d6">Los Angeles, California, U.S.</data>
       <data key="d3">1970–1982, 1989–present</data>
-      <data key="d4">6.396123711340206</data>
+      <data key="d4">progressive rock soft rock jazz fusion blue eyed soul</data>
       <data key="d5">4</data>
     </node>
     <node id="The Alan Parsons Project">
@@ -2165,7 +2162,7 @@
       <data key="d2">4</data>
       <data key="d6">London, England</data>
       <data key="d3">1975–1990</data>
-      <data key="d4">6.429797297297297</data>
+      <data key="d4">progressive rock;art rock;progressive pop;soft rock</data>
       <data key="d5">3</data>
     </node>
     <node id="Edgar Winter">
@@ -2173,14 +2170,14 @@
       <data key="d1">southern rock; pop; jazz fusion; blues rock; blue eyed soul; boogie rock</data>
       <data key="d2">6</data>
       <data key="d3">1969–present</data>
-      <data key="d4">6.339599056603773</data>
+      <data key="d4">southern rock;pop;jazz fusion;blues rock;blue eyed soul;boogie rock</data>
       <data key="d5">4</data>
     </node>
     <node id="Marilyn Manson">
       <data key="d1">industrial rock; industrial metal; gothic rock; alternative metal; shock rock</data>
       <data key="d2">5</data>
       <data key="d3">1989–present</data>
-      <data key="d4">5.84063597532036</data>
+      <data key="d4">industrial rock;industrial metal;gothic rock;alternative metal;shock rock</data>
       <data key="d5">1</data>
     </node>
     <node id="The Smashing Pumpkins">
@@ -2188,7 +2185,7 @@
       <data key="d1">alternative rock</data>
       <data key="d2">1</data>
       <data key="d6">Chicago, Illinois, U.S.</data>
-      <data key="d4">6.253078070611635</data>
+      <data key="d4">alternative rock</data>
       <data key="d5">1</data>
     </node>
     <node id="Jane's Addiction">
@@ -2196,14 +2193,14 @@
       <data key="d1">alternative rock alternative metal funk metal psychedelic rock</data>
       <data key="d2">1</data>
       <data key="d6">Los Angeles, California, U.S.</data>
-      <data key="d4">6.07104861111111</data>
+      <data key="d4">alternative rock alternative metal funk metal psychedelic rock</data>
       <data key="d5">1</data>
     </node>
     <node id="Alanis Morissette">
       <data key="d0">8150</data>
       <data key="d1">alternative rock electronica trip hop indie pop pop rock</data>
       <data key="d2">1</data>
-      <data key="d4">6.478324742268041</data>
+      <data key="d4">alternative rock electronica trip hop indie pop pop rock</data>
       <data key="d5">1</data>
     </node>
     <node id="P.O.D.">
@@ -2212,7 +2209,7 @@
       <data key="d2">1</data>
       <data key="d6">San Diego, California, U.S.</data>
       <data key="d3">1992–present</data>
-      <data key="d4">6.312052341597795</data>
+      <data key="d4">nu metal alternative metal christian metal hardcore punk</data>
       <data key="d5">2</data>
     </node>
     <node id="Chevelle (band)">
@@ -2221,7 +2218,7 @@
       <data key="d2">1</data>
       <data key="d6">Grayslake, Illinois, U.S.</data>
       <data key="d3">1995–present</data>
-      <data key="d4">6.280517799352752</data>
+      <data key="d4">hard rock alternative metal alternative rock post grunge</data>
       <data key="d5">2</data>
     </node>
     <node id="Primus (band)">
@@ -2229,7 +2226,7 @@
       <data key="d1">alternative metal funk metal experimental rock progressive rock</data>
       <data key="d2">1</data>
       <data key="d6">El Sobrante, California, U.S.</data>
-      <data key="d4">6.34637573964497</data>
+      <data key="d4">alternative metal funk metal experimental rock progressive rock</data>
       <data key="d5">0</data>
     </node>
     <node id="Theory of a Deadman">
@@ -2238,7 +2235,7 @@
       <data key="d2">1</data>
       <data key="d6">North Delta, British Columbia, Canada</data>
       <data key="d3">1999–present</data>
-      <data key="d4">6.314285714285713</data>
+      <data key="d4">post grunge hard rock alternative metal pop rock</data>
       <data key="d5">2</data>
     </node>
     <node id="Black Stone Cherry">
@@ -2248,7 +2245,7 @@
       <data key="d6">Edmonton, Kentucky, U.S.</data>
       <data key="d3">–present</data>
       <data key="d7">Roadrunner, Mascot</data>
-      <data key="d4">6.481643835616439</data>
+      <data key="d4">hard rock;southern rock</data>
       <data key="d5">2</data>
     </node>
     <node id="Bush (British band)">
@@ -2256,7 +2253,7 @@
       <data key="d1">post grunge grunge alternative rock</data>
       <data key="d2">1</data>
       <data key="d6">London, England</data>
-      <data key="d4">6.329824086603518</data>
+      <data key="d4">post grunge grunge alternative rock</data>
       <data key="d5">2</data>
     </node>
     <node id="Alter Bridge">
@@ -2265,7 +2262,7 @@
       <data key="d2">1</data>
       <data key="d6">Orlando, Florida, U.S.</data>
       <data key="d3">2004–present</data>
-      <data key="d4">6.3566051660516605</data>
+      <data key="d4">hard rock heavy metal alternative metal progressive metal alternative rock post grunge</data>
       <data key="d5">2</data>
     </node>
     <node id="Hinder">
@@ -2274,7 +2271,7 @@
       <data key="d2">1</data>
       <data key="d6">Oklahoma City, Oklahoma, U.S.</data>
       <data key="d3">2001–present</data>
-      <data key="d4">6.28687323943662</data>
+      <data key="d4">post grunge hard rock</data>
       <data key="d5">2</data>
     </node>
     <node id="10 Years (band)">
@@ -2283,7 +2280,7 @@
       <data key="d2">4</data>
       <data key="d6">Knoxville, Tennessee, U.S.</data>
       <data key="d3">1999–present</data>
-      <data key="d4">6.201450216450217</data>
+      <data key="d4">alternative metal;progressive metal;post grunge;nu metal</data>
       <data key="d5">2</data>
     </node>
     <node id="Little River Band">
@@ -2292,14 +2289,14 @@
       <data key="d2">4</data>
       <data key="d6">Melbourne, Victoria, Australia</data>
       <data key="d3">–present</data>
-      <data key="d4">6.238600543478261</data>
+      <data key="d4">rock;aor;pop rock;soft rock</data>
       <data key="d5">3</data>
     </node>
     <node id="Glenn Frey">
       <data key="d0">3364</data>
       <data key="d1">rock; pop rock; soft rock; country rock; hard rock</data>
       <data key="d2">5</data>
-      <data key="d4">6.295987460815048</data>
+      <data key="d4">rock;pop rock;soft rock;country rock;hard rock</data>
       <data key="d5">3</data>
     </node>
     <node id="Cold Chisel">
@@ -2307,7 +2304,7 @@
       <data key="d1">pub rock r and b hard rock rock and roll</data>
       <data key="d2">1</data>
       <data key="d6">Adelaide, South Australia</data>
-      <data key="d4">6.247602245388934</data>
+      <data key="d4">pub rock r and b hard rock rock and roll</data>
       <data key="d5">4</data>
     </node>
     <node id="Air Supply">
@@ -2316,7 +2313,7 @@
       <data key="d2">3</data>
       <data key="d6">Melbourne, Victoria, Australia</data>
       <data key="d3">1975–present</data>
-      <data key="d4">6.448815165876777</data>
+      <data key="d4">soft rock;pop rock;pop</data>
       <data key="d5">4</data>
     </node>
     <node id="The Cure">
@@ -2325,7 +2322,7 @@
       <data key="d2">1</data>
       <data key="d6">Crawley, West Sussex, England</data>
       <data key="d3">1976–present</data>
-      <data key="d4">6.416792452830189</data>
+      <data key="d4">gothic rock post punk new wave</data>
       <data key="d5">1</data>
     </node>
     <node id="Stone Sour">
@@ -2334,7 +2331,7 @@
       <data key="d2">1</data>
       <data key="d6">Des Moines, Iowa, U.S.</data>
       <data key="d7">Roadrunner</data>
-      <data key="d4">6.431228373702422</data>
+      <data key="d4">alternative metal post grunge alternative rock</data>
       <data key="d5">2</data>
     </node>
     <node id="The Clash">
@@ -2343,7 +2340,7 @@
       <data key="d2">1</data>
       <data key="d6">London, England</data>
       <data key="d3">1976–1986</data>
-      <data key="d4">6.108172619047619</data>
+      <data key="d4">punk rock new wave reggae experimental rock</data>
       <data key="d5">1</data>
     </node>
     <node id="Mudvayne">
@@ -2351,7 +2348,7 @@
       <data key="d1">progressive metal hard rock</data>
       <data key="d2">1</data>
       <data key="d6">Peoria, Illinois, U.S.</data>
-      <data key="d4">6.158038793103448</data>
+      <data key="d4">progressive metal hard rock</data>
       <data key="d5">0</data>
     </node>
     <node id="Lamb of God (band)">
@@ -2360,14 +2357,14 @@
       <data key="d2">1</data>
       <data key="d6">Richmond, Virginia, U.S.</data>
       <data key="d3">1994–present</data>
-      <data key="d4">6.191039062500001</data>
+      <data key="d4">groove metal metalcore thrash metal</data>
       <data key="d5">0</data>
     </node>
     <node id="Fats Domino">
       <data key="d0">3964</data>
       <data key="d1">rock and roll; new orleans r and b; boogie woogie; blues</data>
       <data key="d2">4</data>
-      <data key="d4">6.279170673076923</data>
+      <data key="d4">rock and roll;new orleans r and b;boogie woogie;blues</data>
       <data key="d5">3</data>
     </node>
     <node id="Icehouse (band)">
@@ -2376,7 +2373,7 @@
       <data key="d2">3</data>
       <data key="d6">Sydney, New South Wales, Australia</data>
       <data key="d3">1977–present</data>
-      <data key="d4">6.394151547491996</data>
+      <data key="d4">rock;new wave;synth pop</data>
       <data key="d5">1</data>
     </node>
     <node id="Muse (band)">
@@ -2385,7 +2382,7 @@
       <data key="d2">1</data>
       <data key="d6">Teignmouth, Devon, England</data>
       <data key="d3">1994–present</data>
-      <data key="d4">6.429594395280237</data>
+      <data key="d4">alternative rock progressive rock space rock hard rock art rock electronic rock</data>
       <data key="d5">1</data>
     </node>
     <node id="Interpol (band)">
@@ -2394,7 +2391,7 @@
       <data key="d2">2</data>
       <data key="d6">New York City, U.S.</data>
       <data key="d3">1997–present</data>
-      <data key="d4">6.388319738988581</data>
+      <data key="d4">indie rock;post punk revival</data>
       <data key="d5">1</data>
     </node>
     <node id="Foals (band)">
@@ -2403,7 +2400,7 @@
       <data key="d2">1</data>
       <data key="d6">Oxford, England</data>
       <data key="d3">2005–present</data>
-      <data key="d4">6.350685920577617</data>
+      <data key="d4">indie rock alternative rock art rock dance punk</data>
       <data key="d5">1</data>
     </node>
     <node id="The Lumineers">
@@ -2411,7 +2408,7 @@
       <data key="d1">indie folk; folk rock; americana</data>
       <data key="d2">3</data>
       <data key="d3">2005–present</data>
-      <data key="d4">6.391198668146503</data>
+      <data key="d4">indie folk;folk rock;americana</data>
       <data key="d5">3</data>
     </node>
     <node id="Mumford &amp; Sons">
@@ -2420,7 +2417,7 @@
       <data key="d2">6</data>
       <data key="d6">London, England</data>
       <data key="d3">2007–present</data>
-      <data key="d4">6.428681402439024</data>
+      <data key="d4">folk rock;alternative rock;indie folk;americana;country;bluegrass</data>
       <data key="d5">1</data>
     </node>
     <node id="Dashboard Confessional">
@@ -2428,7 +2425,7 @@
       <data key="d1">emo alternative rock acoustic rock</data>
       <data key="d2">1</data>
       <data key="d6">Boca Raton, Florida, U.S.</data>
-      <data key="d4">6.26567901234568</data>
+      <data key="d4">emo alternative rock acoustic rock</data>
       <data key="d5">1</data>
     </node>
     <node id="The Used">
@@ -2437,7 +2434,7 @@
       <data key="d2">1</data>
       <data key="d6">Orem, Utah, U.S.</data>
       <data key="d3">2000–present</data>
-      <data key="d4">6.172126948775055</data>
+      <data key="d4">emo screamo pop punk punk rock alternative rock</data>
       <data key="d5">1</data>
     </node>
     <node id="Good Charlotte">
@@ -2446,7 +2443,7 @@
       <data key="d2">1</data>
       <data key="d6">Waldorf, Maryland, U.S.</data>
       <data key="d3">1995–present(hiatus: 2011–2015)</data>
-      <data key="d4">6.390421631530707</data>
+      <data key="d4">pop punk alternative rock emo pop rock</data>
       <data key="d5">1</data>
     </node>
     <node id="Three Days Grace">
@@ -2454,7 +2451,7 @@
       <data key="d1">post grunge hard rock</data>
       <data key="d2">1</data>
       <data key="d6">Norwood, Ontario, Canada</data>
-      <data key="d4">6.339745942131263</data>
+      <data key="d4">post grunge hard rock</data>
       <data key="d5">2</data>
     </node>
     <node id="Bring Me the Horizon">
@@ -2463,7 +2460,7 @@
       <data key="d2">1</data>
       <data key="d6">Sheffield, South Yorkshire, England</data>
       <data key="d3">2004–present</data>
-      <data key="d4">6.214714850367025</data>
+      <data key="d4">metalcore alternative metal alternative rock post hardcore electronic rock</data>
       <data key="d5">1</data>
     </node>
     <node id="Arctic Monkeys">
@@ -2472,7 +2469,7 @@
       <data key="d2">1</data>
       <data key="d6">Sheffield, England</data>
       <data key="d3">2002–present</data>
-      <data key="d4">6.264500282326369</data>
+      <data key="d4">indie rock garage rock lounge pop</data>
       <data key="d5">1</data>
     </node>
     <node id="Oasis (band)">
@@ -2480,7 +2477,7 @@
       <data key="d1">rock; britpop</data>
       <data key="d2">2</data>
       <data key="d6">Manchester, England</data>
-      <data key="d4">6.288722919042189</data>
+      <data key="d4">rock;britpop</data>
       <data key="d5">1</data>
     </node>
     <node id="T. Rex (band)">
@@ -2489,7 +2486,7 @@
       <data key="d2">1</data>
       <data key="d6">London, England</data>
       <data key="d3">1967–1977</data>
-      <data key="d4">6.270256147540983</data>
+      <data key="d4">glam rock pop</data>
       <data key="d5">1</data>
     </node>
     <node id="Rammstein">
@@ -2498,7 +2495,7 @@
       <data key="d2">1</data>
       <data key="d6">Berlin, Germany</data>
       <data key="d3">1994–present</data>
-      <data key="d4">6.276459871984244</data>
+      <data key="d4">industrial metal</data>
       <data key="d5">0</data>
     </node>
     <node id="Garbage (band)">
@@ -2506,7 +2503,7 @@
       <data key="d1">alternative rock electronic rock trip hop industrial rock</data>
       <data key="d2">1</data>
       <data key="d6">Madison, Wisconsin, U.S.</data>
-      <data key="d4">6.074776274713839</data>
+      <data key="d4">alternative rock electronic rock trip hop industrial rock</data>
       <data key="d5">1</data>
     </node>
     <node id="Adam Ant">
@@ -2514,7 +2511,7 @@
       <data key="d1">new wave post punk alternative rock dance rock</data>
       <data key="d2">1</data>
       <data key="d3">1975–present</data>
-      <data key="d4">6.298547741566609</data>
+      <data key="d4">new wave post punk alternative rock dance rock</data>
       <data key="d5">1</data>
     </node>
     <node id="Joy Division">
@@ -2523,7 +2520,7 @@
       <data key="d2">1</data>
       <data key="d6">Salford, England</data>
       <data key="d3">1976–1980</data>
-      <data key="d4">6.140606382978723</data>
+      <data key="d4">post punk new wavemultiple sources : gothic rockmultiple sources :</data>
       <data key="d5">1</data>
     </node>
     <node id="Evanescence">
@@ -2532,7 +2529,7 @@
       <data key="d2">1</data>
       <data key="d6">Little Rock, Arkansas, U.S.</data>
       <data key="d3">1994–present</data>
-      <data key="d4">6.273841936957515</data>
+      <data key="d4">alternative metal gothic metal gothic rock hard rock industrial rock symphonic metal nu metal</data>
       <data key="d5">2</data>
     </node>
     <node id="The Hollies">
@@ -2541,7 +2538,7 @@
       <data key="d2">2</data>
       <data key="d6">Manchester, Lancashire, England</data>
       <data key="d3">–present</data>
-      <data key="d4">6.054575471698113</data>
+      <data key="d4">rock;pop</data>
       <data key="d5">3</data>
     </node>
     <node id="Manfred Mann Chapter Three">
@@ -2550,7 +2547,7 @@
       <data key="d2">1</data>
       <data key="d3">1969–1970</data>
       <data key="d7">Vertigo Records</data>
-      <data key="d4">6.1570731707317075</data>
+      <data key="d4">jazz rock</data>
       <data key="d5">3</data>
     </node>
     <node id="Traffic (band)">
@@ -2558,7 +2555,7 @@
       <data key="d1">progressive rock; psychedelic rock; jazz rock; folk rock; psychedelic pop</data>
       <data key="d2">5</data>
       <data key="d6">Birmingham, England</data>
-      <data key="d4">5.966069802731412</data>
+      <data key="d4">progressive rock;psychedelic rock;jazz rock;folk rock;psychedelic pop</data>
       <data key="d5">3</data>
     </node>
     <node id="Steve Winwood">
@@ -2566,7 +2563,7 @@
       <data key="d1">blue eyed soul r and b rock pop</data>
       <data key="d2">1</data>
       <data key="d3">1961–present</data>
-      <data key="d4">6.277556109725686</data>
+      <data key="d4">blue eyed soul r and b rock pop</data>
       <data key="d5">3</data>
     </node>
     <node id="The Jam">
@@ -2576,7 +2573,7 @@
       <data key="d6">Woking, Surrey, England</data>
       <data key="d3">1972–1982</data>
       <data key="d7">Polydor</data>
-      <data key="d4">6.241166875784191</data>
+      <data key="d4">mod revival new wave punk rock power pop</data>
       <data key="d5">3</data>
     </node>
     <node id="The Kinks">
@@ -2585,7 +2582,7 @@
       <data key="d2">2</data>
       <data key="d6">London, England</data>
       <data key="d3">1962–1997</data>
-      <data key="d4">6.199375282933454</data>
+      <data key="d4">rock;pop</data>
       <data key="d5">3</data>
     </node>
     <node id="Sixto Rodriguez">
@@ -2593,7 +2590,7 @@
       <data key="d1">folk rock; psychedelic folk; psychedelic rock</data>
       <data key="d2">3</data>
       <data key="d3">1967–19731998–2023</data>
-      <data key="d4">6.344564885496184</data>
+      <data key="d4">folk rock;psychedelic folk;psychedelic rock</data>
       <data key="d5">3</data>
     </node>
     <node id="Charlie Daniels">
@@ -2601,7 +2598,7 @@
       <data key="d1">southern rock; country rock; progressive country; bluegrass</data>
       <data key="d2">4</data>
       <data key="d3">1958–2020</data>
-      <data key="d4">6.164501940491591</data>
+      <data key="d4">southern rock;country rock;progressive country;bluegrass</data>
       <data key="d5">4</data>
     </node>
     <node id="Flyleaf (band)">
@@ -2610,7 +2607,7 @@
       <data key="d2">1</data>
       <data key="d6">Belton, Texas, U.S.</data>
       <data key="d3">2002–2016, 2022–present</data>
-      <data key="d4">6.336340136054422</data>
+      <data key="d4">alternative rock post grunge hard rock alternative metal christian rock</data>
       <data key="d5">2</data>
     </node>
     <node id="Disturbed (band)">
@@ -2618,7 +2615,7 @@
       <data key="d1">heavy metal alternative metal nu metal</data>
       <data key="d2">1</data>
       <data key="d6">Chicago, Illinois, U.S.</data>
-      <data key="d4">5.981933842239187</data>
+      <data key="d4">heavy metal alternative metal nu metal</data>
       <data key="d5">2</data>
     </node>
     <node id="Steve Vai">
@@ -2626,7 +2623,7 @@
       <data key="d1">instrumental rock hard rock heavy metal progressive metal</data>
       <data key="d2">1</data>
       <data key="d3">1978–present</data>
-      <data key="d4">6.4829106945975745</data>
+      <data key="d4">instrumental rock hard rock heavy metal progressive metal</data>
       <data key="d5">0</data>
     </node>
     <node id="Imagine Dragons">
@@ -2635,7 +2632,7 @@
       <data key="d2">1</data>
       <data key="d6">Las Vegas, Nevada, U.S.</data>
       <data key="d3">2008–present</data>
-      <data key="d4">6.380513573000734</data>
+      <data key="d4">pop rock electropop pop alternative rock</data>
       <data key="d5">1</data>
     </node>
     <node id="Arcade Fire">
@@ -2644,7 +2641,7 @@
       <data key="d2">4</data>
       <data key="d6">Montreal, Quebec, Canada</data>
       <data key="d3">2001–present</data>
-      <data key="d4">6.3365435660703975</data>
+      <data key="d4">indie rock;art rock;dance rock;baroque pop</data>
       <data key="d5">1</data>
     </node>
     <node id="X Ambassadors">
@@ -2653,7 +2650,7 @@
       <data key="d2">5</data>
       <data key="d6">Ithaca, New York, United States</data>
       <data key="d3">2009–present</data>
-      <data key="d4">6.348695652173913</data>
+      <data key="d4">alternative rock;indie rock;indie pop;pop rock;alternative pop</data>
       <data key="d5">1</data>
     </node>
     <node id="Bread (band)">
@@ -2662,7 +2659,7 @@
       <data key="d2">1</data>
       <data key="d6">Los Angeles, California, U.S.</data>
       <data key="d7">Elektra</data>
-      <data key="d4">6.189965095986039</data>
+      <data key="d4">soft rock</data>
       <data key="d5">3</data>
     </node>
     <node id="10cc">
@@ -2670,7 +2667,7 @@
       <data key="d1">art rock; art pop; progressive pop; soft rock; pop rock</data>
       <data key="d2">5</data>
       <data key="d6">Stockport, England</data>
-      <data key="d4">6.262002861230328</data>
+      <data key="d4">art rock;art pop;progressive pop;soft rock;pop rock</data>
       <data key="d5">3</data>
     </node>
     <node id="The Band">
@@ -2678,7 +2675,7 @@
       <data key="d1">roots rock; americana; folk rock; country rock</data>
       <data key="d2">4</data>
       <data key="d6">Toronto, Ontario, CanadaWoodstock, New York, U.S.</data>
-      <data key="d4">6.1515824468085105</data>
+      <data key="d4">roots rock;americana;folk rock;country rock</data>
       <data key="d5">3</data>
     </node>
     <node id="The Yardbirds">
@@ -2686,7 +2683,7 @@
       <data key="d1">blues rockthe following sources refer to the yardbirds as blues rock: psychedelic rockthe following sources refer to the yardbirds as psychedelic rock: r and bthe following sources refer to the yardbirds as rhythm and blues:</data>
       <data key="d2">1</data>
       <data key="d6">London, England</data>
-      <data key="d4">6.238212180746562</data>
+      <data key="d4">blues rockthe following sources refer to the yardbirds as blues rock: psychedelic rockthe following sources refer to the yardbirds as psychedelic rock: r and bthe following sources refer to the yardbirds as rhythm and blues:</data>
       <data key="d5">3</data>
     </node>
     <node id="Van Morrison">
@@ -2694,7 +2691,7 @@
       <data key="d1">blue eyed soul celtic rock r and b folk blues jazz country gospel christian</data>
       <data key="d2">1</data>
       <data key="d3">1958–present</data>
-      <data key="d4">6.38195462478185</data>
+      <data key="d4">blue eyed soul celtic rock r and b folk blues jazz country gospel christian</data>
       <data key="d5">3</data>
     </node>
     <node id="Manfred Mann">
@@ -2702,7 +2699,7 @@
       <data key="d2">1</data>
       <data key="d6">London, England</data>
       <data key="d3">1962–1969</data>
-      <data key="d4">6.267046511627908</data>
+      <data key="d4">blues rock r and b pop beat psychedelia</data>
       <data key="d5">3</data>
     </node>
     <node id="Stevie Ray Vaughan">
@@ -2710,7 +2707,7 @@
       <data key="d1">texas blues; blues rock; electric blues; rock and roll</data>
       <data key="d2">4</data>
       <data key="d3">1965–1990</data>
-      <data key="d4">6.07400700350175</data>
+      <data key="d4">texas blues;blues rock;electric blues;rock and roll</data>
       <data key="d5">3</data>
     </node>
     <node id="Skillet (band)">
@@ -2719,7 +2716,7 @@
       <data key="d2">1</data>
       <data key="d6">Memphis, Tennessee, U.S.</data>
       <data key="d3">1996–present</data>
-      <data key="d4">6.359186643835617</data>
+      <data key="d4">christian rock alternative rock alternative metal post grunge nu metal</data>
       <data key="d5">2</data>
     </node>
     <node id="3 Doors Down">
@@ -2728,7 +2725,7 @@
       <data key="d2">1</data>
       <data key="d6">Escatawpa, Mississippi, U.S.</data>
       <data key="d3">1996–2025</data>
-      <data key="d4">6.277764976958525</data>
+      <data key="d4">post grunge hard rock alternative rock</data>
       <data key="d5">2</data>
     </node>
     <node id="ABBA">
@@ -2736,7 +2733,7 @@
       <data key="d1">pop disco pop rock europop</data>
       <data key="d2">1</data>
       <data key="d6">Stockholm, Sweden</data>
-      <data key="d4">6.453283043620859</data>
+      <data key="d4">pop disco pop rock europop</data>
       <data key="d5">3</data>
     </node>
     <node id="Bon Jovi">
@@ -2745,7 +2742,7 @@
       <data key="d2">1</data>
       <data key="d6">Sayreville, New Jersey, U.S.</data>
       <data key="d3">1983–present</data>
-      <data key="d4">6.379408045977011</data>
+      <data key="d4">hard rock glam metal arena rock pop rock</data>
       <data key="d5">0</data>
     </node>
     <node id="Drowning Pool">
@@ -2754,7 +2751,7 @@
       <data key="d2">1</data>
       <data key="d6">Dallas, Texas, U.S.</data>
       <data key="d3">1996–present</data>
-      <data key="d4">5.9951470588235285</data>
+      <data key="d4">alternative metal nu metal post grunge</data>
       <data key="d5">0</data>
     </node>
     <node id="Saving Abel">
@@ -2763,14 +2760,14 @@
       <data key="d2">1</data>
       <data key="d6">Corinth, Mississippi, U.S.</data>
       <data key="d3">2004–present</data>
-      <data key="d4">6.237331081081081</data>
+      <data key="d4">rock hard rock post grunge southern rock</data>
       <data key="d5">2</data>
     </node>
     <node id="Gary Glitter">
       <data key="d0">5651</data>
       <data key="d1">glam rock; rock and roll; pop rock; hard rock; disco</data>
       <data key="d2">5</data>
-      <data key="d4">5.886097337006428</data>
+      <data key="d4">glam rock;rock and roll;pop rock;hard rock;disco</data>
       <data key="d5">4</data>
     </node>
     <node id="The Sweet">
@@ -2779,7 +2776,7 @@
       <data key="d2">4</data>
       <data key="d6">London, England</data>
       <data key="d3">(as spinoffs)</data>
-      <data key="d4">6.29974314068885</data>
+      <data key="d4">glam rock;hard rock;power pop;bubblegum</data>
       <data key="d5">4</data>
     </node>
     <node id="Grateful Dead">
@@ -2788,7 +2785,7 @@
       <data key="d2">1</data>
       <data key="d6">Palo Alto, California, U.S.</data>
       <data key="d3">1965–1995</data>
-      <data key="d4">6.04691646778043</data>
+      <data key="d4">rock</data>
       <data key="d5">3</data>
     </node>
     <node id="Finger Eleven">
@@ -2797,7 +2794,7 @@
       <data key="d2">1</data>
       <data key="d6">Burlington, Ontario, Canada</data>
       <data key="d3">1990–present</data>
-      <data key="d4">6.47296875</data>
+      <data key="d4">alternative rock alternative metal post grunge hard rock</data>
       <data key="d5">2</data>
     </node>
     <node id="Our Lady Peace">
@@ -2806,7 +2803,7 @@
       <data key="d2">1</data>
       <data key="d6">Toronto, Ontario, Canada</data>
       <data key="d3">1992–present</data>
-      <data key="d4">6.316087689713322</data>
+      <data key="d4">alternative rock post grunge</data>
       <data key="d5">2</data>
     </node>
     <node id="The Tragically Hip">
@@ -2815,7 +2812,7 @@
       <data key="d2">1</data>
       <data key="d6">Kingston, Ontario, Canada</data>
       <data key="d3">1984–2017</data>
-      <data key="d4">6.246621187800963</data>
+      <data key="d4">alternative rock roots rock folk rock</data>
       <data key="d5">2</data>
     </node>
     <node id="Dio (band)">
@@ -2824,7 +2821,7 @@
       <data key="d2">1</data>
       <data key="d6">Cortland, New York, U.S.</data>
       <data key="d3">1982–2010</data>
-      <data key="d4">6.053048128342246</data>
+      <data key="d4">heavy metal</data>
       <data key="d5">0</data>
     </node>
     <node id="Asia (band)">
@@ -2832,7 +2829,7 @@
       <data key="d1">progressive rock; aor; pop rock</data>
       <data key="d2">3</data>
       <data key="d6">London, England</data>
-      <data key="d4">6.2932685385169185</data>
+      <data key="d4">progressive rock;aor;pop rock</data>
       <data key="d5">3</data>
     </node>
     <node id="Steppenwolf (band)">
@@ -2840,7 +2837,7 @@
       <data key="d1">psychedelic rock; blues rock; acid rock; hard rock; heavy metal; garage rock</data>
       <data key="d2">6</data>
       <data key="d6">Los Angeles, California, U.S.</data>
-      <data key="d4">6.25774</data>
+      <data key="d4">psychedelic rock;blues rock;acid rock;hard rock;heavy metal;garage rock</data>
       <data key="d5">3</data>
     </node>
     <node id="Manfred Mann's Earth Band">
@@ -2849,7 +2846,7 @@
       <data key="d2">3</data>
       <data key="d6">London, England</data>
       <data key="d3">1971–1987, 1991–present</data>
-      <data key="d4">6.296748633879783</data>
+      <data key="d4">progressive rock;hard rock;jazz rock</data>
       <data key="d5">3</data>
     </node>
     <node id="Ghost (Swedish band)">
@@ -2858,7 +2855,7 @@
       <data key="d2">1</data>
       <data key="d6">Linköping, Östergötland, Sweden</data>
       <data key="d3">2006–present</data>
-      <data key="d4">6.1564795244385735</data>
+      <data key="d4">hard rock heavy metal arena rock pop rock</data>
       <data key="d5">0</data>
     </node>
     <node id="Accept (band)">
@@ -2866,7 +2863,7 @@
       <data key="d1">heavy metal</data>
       <data key="d2">1</data>
       <data key="d6">Solingen, West Germany</data>
-      <data key="d4">6.083193384223919</data>
+      <data key="d4">heavy metal</data>
       <data key="d5">0</data>
     </node>
     <node id="Bloodhound Gang">
@@ -2874,7 +2871,7 @@
       <data key="d1">alternative rock comedy rock rap rock pop punk</data>
       <data key="d2">1</data>
       <data key="d6">Quakertown, Pennsylvania, U.S.</data>
-      <data key="d4">6.169527824620573</data>
+      <data key="d4">alternative rock comedy rock rap rock pop punk</data>
       <data key="d5">1</data>
     </node>
     <node id="John Mellencamp">
@@ -2882,7 +2879,7 @@
       <data key="d1">heartland rock roots rock folk rock</data>
       <data key="d2">1</data>
       <data key="d3">1974–present</data>
-      <data key="d4">6.256917148362235</data>
+      <data key="d4">heartland rock roots rock folk rock</data>
       <data key="d5">3</data>
     </node>
     <node id="The Byrds">
@@ -2890,7 +2887,7 @@
       <data key="d1">folk rock; psychedelia; raga rock; country rock; jangle pop</data>
       <data key="d2">5</data>
       <data key="d6">Los Angeles, California, U.S.</data>
-      <data key="d4">6.187883556254918</data>
+      <data key="d4">folk rock;psychedelia;raga rock;country rock;jangle pop</data>
       <data key="d5">3</data>
     </node>
     <node id="Traveling Wilburys">
@@ -2899,7 +2896,7 @@
       <data key="d2">1</data>
       <data key="d6">Los Angeles, California, US</data>
       <data key="d3">–</data>
-      <data key="d4">6.410843828715364</data>
+      <data key="d4">rock</data>
       <data key="d5">3</data>
     </node>
     <node id="Dan Fogelberg">
@@ -2907,7 +2904,7 @@
       <data key="d1">rock; country; folk; folk rock; soft rock; pop rock; pop</data>
       <data key="d2">7</data>
       <data key="d3">1968–2007</data>
-      <data key="d4">6.401709956709956</data>
+      <data key="d4">rock;country;folk;folk rock;soft rock;pop rock;pop</data>
       <data key="d5">3</data>
     </node>
     <node id="Emerson, Lake &amp; Palmer">
@@ -2915,7 +2912,7 @@
       <data key="d1">progressive rock art rock</data>
       <data key="d2">1</data>
       <data key="d6">London, England</data>
-      <data key="d4">6.244595028067362</data>
+      <data key="d4">progressive rock art rock</data>
       <data key="d5">3</data>
     </node>
     <node id="Jeff Buckley">
@@ -2925,7 +2922,7 @@
       <data key="d6">East Village, Manhattan, New York City</data>
       <data key="d3">1990–1997</data>
       <data key="d7">Columbia</data>
-      <data key="d4">6.362530487804878</data>
+      <data key="d4">alternative rock;folk rock;blues</data>
       <data key="d5">1</data>
     </node>
     <node id="Living Colour">
@@ -2933,7 +2930,7 @@
       <data key="d1">hard rockthe following sources refer to living colour as hard rock: funk metalthe following sources refer to living colour as funk metal: alternative metalthe following sources refer to living colour as alternative metal:</data>
       <data key="d2">1</data>
       <data key="d6">New York City, U.S.</data>
-      <data key="d4">6.409950083194675</data>
+      <data key="d4">hard rockthe following sources refer to living colour as hard rock: funk metalthe following sources refer to living colour as funk metal: alternative metalthe following sources refer to living colour as alternative metal:</data>
       <data key="d5">0</data>
     </node>
     <node id="Faces (band)">
@@ -2941,7 +2938,7 @@
       <data key="d1">rock; blues</data>
       <data key="d2">2</data>
       <data key="d6">London, England</data>
-      <data key="d4">6.210843373493976</data>
+      <data key="d4">rock;blues</data>
       <data key="d5">3</data>
     </node>
     <node id="The Cardigans">
@@ -2951,7 +2948,7 @@
       <data key="d6">Jönköping, Småland, Sweden</data>
       <data key="d3">1992–2006, 2012–present</data>
       <data key="d7">MCA, Mercury, Minty Fresh, Stockholm, Universal</data>
-      <data key="d4">6.48376</data>
+      <data key="d4">alternative rock pop rock indie rock indie pop</data>
       <data key="d5">1</data>
     </node>
     <node id="Men at Work">
@@ -2959,7 +2956,7 @@
       <data key="d1">new wave; pop rock; reggae rock</data>
       <data key="d2">3</data>
       <data key="d6">Melbourne, Victoria, Australia</data>
-      <data key="d4">6.2369527363184085</data>
+      <data key="d4">new wave;pop rock;reggae rock</data>
       <data key="d5">1</data>
     </node>
     <node id="The Cab">
@@ -2967,7 +2964,7 @@
       <data key="d1">alternative rock pop punk power pop pop</data>
       <data key="d2">1</data>
       <data key="d6">Las Vegas, Nevada, U.S.</data>
-      <data key="d4">6.269983022071307</data>
+      <data key="d4">alternative rock pop punk power pop pop</data>
       <data key="d5">1</data>
     </node>
     <node id="Boys Like Girls">
@@ -2976,7 +2973,7 @@
       <data key="d2">7</data>
       <data key="d6">Andover, Massachusetts, U.S.</data>
       <data key="d3">2005–present</data>
-      <data key="d4">6.4825445292620865</data>
+      <data key="d4">pop rock;pop punk;emo pop;the daily aztec;mtv;alternative rock;sony</data>
       <data key="d5">1</data>
     </node>
     <node id="Simple Plan">
@@ -2985,7 +2982,7 @@
       <data key="d2">1</data>
       <data key="d6">Montreal, Quebec, Canada</data>
       <data key="d3">1999–present</data>
-      <data key="d4">6.355391986062718</data>
+      <data key="d4">pop punk alternative rock pop rock power pop emo</data>
       <data key="d5">1</data>
     </node>
     <node id="Sum 41">
@@ -2994,7 +2991,7 @@
       <data key="d2">1</data>
       <data key="d6">Ajax, Ontario, Canada</data>
       <data key="d3">1996–2025</data>
-      <data key="d4">6.112468974526452</data>
+      <data key="d4">pop punk skate punk alternative metal melodic hardcore</data>
       <data key="d5">1</data>
     </node>
     <node id="Five for Fighting">
@@ -3002,7 +2999,7 @@
       <data key="d1">soft rock; heartland rock; alternative rock; pop rock; americana</data>
       <data key="d2">5</data>
       <data key="d3">1988–present</data>
-      <data key="d4">6.245453720508166</data>
+      <data key="d4">soft rock;heartland rock;alternative rock;pop rock;americana</data>
       <data key="d5">4</data>
     </node>
     <node id="The Fixx">
@@ -3012,7 +3009,7 @@
       <data key="d6">London, England</data>
       <data key="d3">1979–present</data>
       <data key="d7">MCA, RCA, Kirtland</data>
-      <data key="d4">6.3014487632508835</data>
+      <data key="d4">new wave;pop rock;art rock;dance rock</data>
       <data key="d5">1</data>
     </node>
     <node id="Chubby Checker">
@@ -3021,7 +3018,7 @@
       <data key="d2">1</data>
       <data key="d6">Philadelphia, Pennsylvania, U.S.</data>
       <data key="d3">1960–present</data>
-      <data key="d4">6.361431064572426</data>
+      <data key="d4">rock and roll</data>
       <data key="d5">3</data>
     </node>
     <node id="Rainbow (rock band)">
@@ -3029,7 +3026,7 @@
       <data key="d1">hard rock; heavy metal</data>
       <data key="d2">2</data>
       <data key="d6">Hertford, Hertfordshire, England</data>
-      <data key="d4">6.351940298507462</data>
+      <data key="d4">hard rock;heavy metal</data>
       <data key="d5">0</data>
     </node>
     <node id="Survivor (band)">
@@ -3039,7 +3036,7 @@
       <data key="d6">Chicago, Illinois, U.S.</data>
       <data key="d3">1978–1988, 1993–2020</data>
       <data key="d7">Scotti Brothers, PolyGram, Frontiers</data>
-      <data key="d4">6.205779467680609</data>
+      <data key="d4">rock;arena rock;hard rock</data>
       <data key="d5">4</data>
     </node>
     <node id="Bad Company">
@@ -3047,7 +3044,7 @@
       <data key="d1">hard rock blues rock</data>
       <data key="d2">1</data>
       <data key="d6">London, England</data>
-      <data key="d4">5.905746031746032</data>
+      <data key="d4">hard rock blues rock</data>
       <data key="d5">0</data>
     </node>
     <node id="Europe (band)">
@@ -3055,7 +3052,7 @@
       <data key="d1">arena rock hard rock glam metal blues rock heavy metal</data>
       <data key="d2">1</data>
       <data key="d6">Upplands Väsby, Sweden</data>
-      <data key="d4">6.367478042659975</data>
+      <data key="d4">arena rock hard rock glam metal blues rock heavy metal</data>
       <data key="d5">0</data>
     </node>
     <node id="Joe Satriani">
@@ -3063,7 +3060,7 @@
       <data key="d1">instrumental rock hard rock blues rock</data>
       <data key="d2">1</data>
       <data key="d3">1978–present</data>
-      <data key="d4">6.446342857142857</data>
+      <data key="d4">instrumental rock hard rock blues rock</data>
       <data key="d5">0</data>
     </node>
     <node id="Kansas (band)">
@@ -3071,7 +3068,7 @@
       <data key="d1">progressive rock art rock hard rock</data>
       <data key="d2">1</data>
       <data key="d6">Topeka, Kansas, U.S.</data>
-      <data key="d4">6.349524714828898</data>
+      <data key="d4">progressive rock art rock hard rock</data>
       <data key="d5">4</data>
     </node>
     <node id="Halestorm">
@@ -3081,7 +3078,7 @@
       <data key="d6">Red Lion, Pennsylvania, U.S.</data>
       <data key="d3">1997–present</data>
       <data key="d7">Atlantic</data>
-      <data key="d4">6.391872340425532</data>
+      <data key="d4">hard rock heavy metal alternative metal</data>
       <data key="d5">2</data>
     </node>
     <node id="A Perfect Circle">
@@ -3089,7 +3086,7 @@
       <data key="d1">alternative rock hard rock</data>
       <data key="d2">1</data>
       <data key="d6">Los Angeles, California, U.S.</data>
-      <data key="d4">6.384484484484485</data>
+      <data key="d4">alternative rock hard rock</data>
       <data key="d5">0</data>
     </node>
     <node id="The Pretty Reckless">
@@ -3098,7 +3095,7 @@
       <data key="d2">1</data>
       <data key="d6">New York City, U.S.</data>
       <data key="d3">2009–present</data>
-      <data key="d4">6.179276693455798</data>
+      <data key="d4">hard rock alternative rock blues rock</data>
       <data key="d5">2</data>
     </node>
     <node id="Lou Reed">
@@ -3107,7 +3104,7 @@
       <data key="d2">4</data>
       <data key="d6">Freeport, New York, U.S.</data>
       <data key="d3">1958–2013</data>
-      <data key="d4">6.267715968586387</data>
+      <data key="d4">rock;art rock;proto punk;glam rock</data>
       <data key="d5">1</data>
     </node>
     <node id="Paul McCartney and Wings">
@@ -3116,7 +3113,7 @@
       <data key="d2">1</data>
       <data key="d6">London, England</data>
       <data key="d3">1971–1981</data>
-      <data key="d4">6.338944099378883</data>
+      <data key="d4">soft rock</data>
       <data key="d5">3</data>
     </node>
     <node id="Small Faces">
@@ -3124,7 +3121,7 @@
       <data key="d1">rock r and b beatsmall faces allmusic retrieved 26 march 2024 pop psychedelia proto punk progressive pop</data>
       <data key="d2">1</data>
       <data key="d6">London, England</data>
-      <data key="d4">6.204593301435406</data>
+      <data key="d4">rock r and b beatsmall faces allmusic retrieved 26 march 2024 pop psychedelia proto punk progressive pop</data>
       <data key="d5">3</data>
     </node>
     <node id="Cage the Elephant">
@@ -3133,7 +3130,7 @@
       <data key="d2">1</data>
       <data key="d6">Bowling Green, Kentucky, U.S.</data>
       <data key="d3">2006–present</data>
-      <data key="d4">6.290457746478873</data>
+      <data key="d4">alternative rock indie rock psychedelic rock garage rock punk blues post punk</data>
       <data key="d5">1</data>
     </node>
     <node id="The Black Keys">
@@ -3142,7 +3139,7 @@
       <data key="d2">1</data>
       <data key="d6">Akron, Ohio, U.S.</data>
       <data key="d3">2001–present</data>
-      <data key="d4">6.377472687545521</data>
+      <data key="d4">garage rock blues rock indie rock</data>
       <data key="d5">1</data>
     </node>
     <node id="Cake (band)">
@@ -3151,7 +3148,7 @@
       <data key="d2">4</data>
       <data key="d6">Sacramento, California, U.S.</data>
       <data key="d3">1991–present</data>
-      <data key="d4">6.508791801510249</data>
+      <data key="d4">alternative rock;country;indie rock;funk rock</data>
       <data key="d5">1</data>
     </node>
     <node id="Morrissey">
@@ -3159,14 +3156,14 @@
       <data key="d1">alternative rock; indie pop; indie rock; jangle pop</data>
       <data key="d2">4</data>
       <data key="d3">1976–present</data>
-      <data key="d4">6.063735017816651</data>
+      <data key="d4">alternative rock;indie pop;indie rock;jangle pop</data>
       <data key="d5">1</data>
     </node>
     <node id="Chris Cornell">
       <data key="d0">11634</data>
       <data key="d1">alternative metal; heavy metal; grunge; alternative rock; hard rock</data>
       <data key="d2">5</data>
-      <data key="d4">6.117485272459498</data>
+      <data key="d4">alternative metal;heavy metal;grunge;alternative rock;hard rock</data>
       <data key="d5">0</data>
     </node>
     <node id="Smash Mouth">
@@ -3175,7 +3172,7 @@
       <data key="d2">1</data>
       <data key="d6">San Jose, California, U.S.</data>
       <data key="d3">1994–present</data>
-      <data key="d4">6.3947768395657425</data>
+      <data key="d4">alternative rock power pop pop rock ska punk</data>
       <data key="d5">1</data>
     </node>
     <node id="Thirty Seconds to Mars">
@@ -3184,7 +3181,7 @@
       <data key="d2">1</data>
       <data key="d6">Los Angeles, California, U.S.</data>
       <data key="d3">1998–present</data>
-      <data key="d4">6.350100456621004</data>
+      <data key="d4">alternative rock</data>
       <data key="d5">2</data>
     </node>
     <node id="Royal Blood (band)">
@@ -3193,7 +3190,7 @@
       <data key="d2">1</data>
       <data key="d6">Worthing, England</data>
       <data key="d3">2011–present</data>
-      <data key="d4">6.4473427991886405</data>
+      <data key="d4">hard rock blues rock garage rock stoner rock alternative rock</data>
       <data key="d5">1</data>
     </node>
     <node id="Montgomery Gentry">
@@ -3202,7 +3199,7 @@
       <data key="d2">3</data>
       <data key="d6">Summit, Kentucky, U.S.</data>
       <data key="d3">* 1999–2017 (as a duo act) 2017-present (as a solo act)</data>
-      <data key="d4">6.274356756756758</data>
+      <data key="d4">country;southern rock;country rock</data>
       <data key="d5">4</data>
     </node>
     <node id="The Allman Brothers Band">
@@ -3210,7 +3207,7 @@
       <data key="d1">southern rock; blues rock; jam band</data>
       <data key="d2">3</data>
       <data key="d6">Jacksonville, Florida, U.S.</data>
-      <data key="d4">6.160469688694702</data>
+      <data key="d4">southern rock;blues rock;jam band</data>
       <data key="d5">3</data>
     </node>
     <node id="Lynyrd Skynyrd">
@@ -3219,7 +3216,7 @@
       <data key="d2">4</data>
       <data key="d6">Jacksonville, Florida, U.S.</data>
       <data key="d7">Frontiers Music</data>
-      <data key="d4">6.031170212765957</data>
+      <data key="d4">southern rock;blues rock;country rock;hard rock</data>
       <data key="d5">4</data>
     </node>
     <node id="The Script">
@@ -3228,7 +3225,7 @@
       <data key="d2">3</data>
       <data key="d6">Dublin, Ireland</data>
       <data key="d3">2001–present</data>
-      <data key="d4">6.402661195779602</data>
+      <data key="d4">pop rock;soft rock;indie rock</data>
       <data key="d5">1</data>
     </node>
     <node id="Snow Patrol">
@@ -3236,7 +3233,7 @@
       <data key="d1">alternative rock power pop post britpop indie rock</data>
       <data key="d2">1</data>
       <data key="d3">1994–present</data>
-      <data key="d4">6.3495314426633795</data>
+      <data key="d4">alternative rock power pop post britpop indie rock</data>
       <data key="d5">1</data>
     </node>
     <node id="Mike and the Mechanics">
@@ -3245,7 +3242,7 @@
       <data key="d2">1</data>
       <data key="d6">Dover, Kent, England</data>
       <data key="d3">1985–2004, 2010–present</data>
-      <data key="d4">6.352408963585432</data>
+      <data key="d4">rock pop rock</data>
       <data key="d5">3</data>
     </node>
     <node id="Parliament (band)">
@@ -3255,7 +3252,7 @@
       <data key="d6">Plainfield, New Jersey, U.S.</data>
       <data key="d3">1968–1970, 1974–1980, 2018</data>
       <data key="d7">Casablanca (1974–1980)Invictus (1968–1970) C Kunspyruhzy (2018)Def Jam (2021–present)</data>
-      <data key="d4">6.251518324607329</data>
+      <data key="d4">funk;r and b;psychedelic soul</data>
       <data key="d5">5</data>
     </node>
     <node id="Funkadelic">
@@ -3263,7 +3260,7 @@
       <data key="d1">funk rock; psychedelic funk; acid rock; psychedelic rock</data>
       <data key="d2">4</data>
       <data key="d6">Plainfield, New Jersey, U.S.</data>
-      <data key="d4">6.415026178010471</data>
+      <data key="d4">funk rock;psychedelic funk;acid rock;psychedelic rock</data>
       <data key="d5">5</data>
     </node>
     <node id="Parliament-Funkadelic">
@@ -3272,7 +3269,7 @@
       <data key="d2">8</data>
       <data key="d6">Plainfield, New Jersey, U.S.Detroit, Michigan, U.S.</data>
       <data key="d3">1956–present</data>
-      <data key="d4">6.329649122807017</data>
+      <data key="d4">funk;psychedelic funk;funk rock;jet;google books;acid rock;progressive soul;the new york times</data>
       <data key="d5">5</data>
     </node>
     <node id="George Thorogood">
@@ -3280,14 +3277,14 @@
       <data key="d1">blues rock hard rock boogie rock rock and roll</data>
       <data key="d2">1</data>
       <data key="d3">1973–present</data>
-      <data key="d4">6.342065972222222</data>
+      <data key="d4">blues rock hard rock boogie rock rock and roll</data>
       <data key="d5">3</data>
     </node>
     <node id="Electric Light Orchestra">
       <data key="d0">5110</data>
       <data key="d1">progressive pop; progressive rock; orchestral popthe following references cite the band as either orchestral pop or symphonic pop:; art rock</data>
       <data key="d2">4</data>
-      <data key="d4">6.311491862567812</data>
+      <data key="d4">progressive pop;progressive rock;orchestral popthe following references cite the band as either orchestral pop or symphonic pop:;art rock</data>
       <data key="d5">3</data>
     </node>
     <node id="Roy Orbison">
@@ -3295,7 +3292,7 @@
       <data key="d1">rock; pop; country; rock and roll; rockabilly</data>
       <data key="d2">5</data>
       <data key="d3">1953–1988</data>
-      <data key="d4">6.263557328853422</data>
+      <data key="d4">rock;pop;country;rock and roll;rockabilly</data>
       <data key="d5">3</data>
     </node>
     <node id="Pop Evil">
@@ -3305,7 +3302,7 @@
       <data key="d6">Muskegon, Michigan, U.S.</data>
       <data key="d3">2001–present</data>
       <data key="d7">MNRK Music Group</data>
-      <data key="d4">5.988469217970049</data>
+      <data key="d4">hard rock alternative metal post grunge</data>
       <data key="d5">2</data>
     </node>
     <node id="Five Finger Death Punch">
@@ -3314,7 +3311,7 @@
       <data key="d2">1</data>
       <data key="d6">Las Vegas, Nevada, U.S.</data>
       <data key="d3">2005–present</data>
-      <data key="d4">5.7981539888682745</data>
+      <data key="d4">groove metal alternative metal</data>
       <data key="d5">0</data>
     </node>
     <node id="Daughtry (band)">
@@ -3323,7 +3320,7 @@
       <data key="d2">1</data>
       <data key="d6">McLeansville, North Carolina, U.S.</data>
       <data key="d3">2006–present</data>
-      <data key="d4">6.354255319148937</data>
+      <data key="d4">post grunge hard rock</data>
       <data key="d5">2</data>
     </node>
     <node id="John Fogerty">
@@ -3332,7 +3329,7 @@
       <data key="d2">1</data>
       <data key="d6">El Cerrito, California, U.S.</data>
       <data key="d3">1959–present</data>
-      <data key="d4">6.2253441682600394</data>
+      <data key="d4">roots rock rock and roll country rock blues rock americana southern rock</data>
       <data key="d5">3</data>
     </node>
     <node id="The Cult">
@@ -3340,7 +3337,7 @@
       <data key="d1">hard rock; gothic rock; alternative rock; heavy metal; post punk</data>
       <data key="d2">5</data>
       <data key="d6">Bradford, England</data>
-      <data key="d4">6.204160583941606</data>
+      <data key="d4">hard rock;gothic rock;alternative rock;heavy metal;post punk</data>
       <data key="d5">0</data>
     </node>
     <node id="The Strokes">
@@ -3349,7 +3346,7 @@
       <data key="d2">1</data>
       <data key="d6">New York City, U.S.</data>
       <data key="d3">1998–present</data>
-      <data key="d4">6.425404255319149</data>
+      <data key="d4">indie rock garage rock revival post punk revival new wave</data>
       <data key="d5">1</data>
     </node>
     <node id="The Smiths">
@@ -3358,7 +3355,7 @@
       <data key="d2">4</data>
       <data key="d6">Manchester, England</data>
       <data key="d3">1982–1987</data>
-      <data key="d4">6.038693435309114</data>
+      <data key="d4">indie pop;indie rock;jangle pop;alternative rock</data>
       <data key="d5">1</data>
     </node>
     <node id="The Cranberries">
@@ -3366,7 +3363,7 @@
       <data key="d1">alternative rock indie rock pop rock jangle pop post punk dream pop</data>
       <data key="d2">1</data>
       <data key="d6">Limerick, Ireland</data>
-      <data key="d4">6.250934645115952</data>
+      <data key="d4">alternative rock indie rock pop rock jangle pop post punk dream pop</data>
       <data key="d5">1</data>
     </node>
     <node id="Modest Mouse">
@@ -3375,7 +3372,7 @@
       <data key="d2">1</data>
       <data key="d6">Issaquah, Washington, U.S.</data>
       <data key="d3">1993–present</data>
-      <data key="d4">6.159877488514549</data>
+      <data key="d4">indie rock alternative rock post punk revival punk rock synthpop emo</data>
       <data key="d5">1</data>
     </node>
     <node id="Blur (band)">
@@ -3383,7 +3380,7 @@
       <data key="d1">britpop indie rock alternative rock art pop</data>
       <data key="d2">1</data>
       <data key="d6">London, England</data>
-      <data key="d4">6.286279069767442</data>
+      <data key="d4">britpop indie rock alternative rock art pop</data>
       <data key="d5">1</data>
     </node>
     <node id="Sam Fender">
@@ -3391,7 +3388,7 @@
       <data key="d1">rock indie rock pop rock heartland rock</data>
       <data key="d2">1</data>
       <data key="d7">Polydor</data>
-      <data key="d4">6.327603833865814</data>
+      <data key="d4">rock indie rock pop rock heartland rock</data>
       <data key="d5">1</data>
     </node>
     <node id="The Killers">
@@ -3400,7 +3397,7 @@
       <data key="d2">1</data>
       <data key="d6">Las Vegas, Nevada, U.S.</data>
       <data key="d3">2001–present</data>
-      <data key="d4">6.290962566844919</data>
+      <data key="d4">alternative rock pop rock new wave heartland rock</data>
       <data key="d5">1</data>
     </node>
     <node id="Kings of Leon">
@@ -3409,7 +3406,7 @@
       <data key="d2">4</data>
       <data key="d6">Mount Juliet, Tennessee, U.S.</data>
       <data key="d3">–present</data>
-      <data key="d4">6.478075709779181</data>
+      <data key="d4">alternative rock;southern rock;indie rock;garage rock revival</data>
       <data key="d5">1</data>
     </node>
     <node id="Tracy Chapman">
@@ -3418,7 +3415,7 @@
       <data key="d2">4</data>
       <data key="d3">1986–present</data>
       <data key="d7">Elektra</data>
-      <data key="d4">6.558419497784343</data>
+      <data key="d4">folk;blues rock;pop;soul</data>
       <data key="d5">2</data>
     </node>
     <node id="James Taylor">
@@ -3426,7 +3423,7 @@
       <data key="d1">soft rock; folk</data>
       <data key="d2">2</data>
       <data key="d6">Chapel Hill, North Carolina, U.S.</data>
-      <data key="d4">6.397497285559175</data>
+      <data key="d4">soft rock;folk</data>
       <data key="d5">3</data>
     </node>
     <node id="The All-American Rejects">
@@ -3435,7 +3432,7 @@
       <data key="d2">1</data>
       <data key="d6">Stillwater, Oklahoma, U.S.</data>
       <data key="d3">1999–present</data>
-      <data key="d4">6.329175627240143</data>
+      <data key="d4">power pop alternative rock pop rock emo pop</data>
       <data key="d5">1</data>
     </node>
     <node id="Hoobastank">
@@ -3444,7 +3441,7 @@
       <data key="d2">1</data>
       <data key="d6">Agoura Hills, California, U.S.</data>
       <data key="d3">1994–present</data>
-      <data key="d4">6.28244741873805</data>
+      <data key="d4">alternative rock post grunge funk metal ska punk</data>
       <data key="d5">1</data>
     </node>
     <node id="Live (band)">
@@ -3452,7 +3449,7 @@
       <data key="d1">alternative rock post grunge hard rock</data>
       <data key="d2">1</data>
       <data key="d6">York, Pennsylvania, U.S.</data>
-      <data key="d4">6.316047156726769</data>
+      <data key="d4">alternative rock post grunge hard rock</data>
       <data key="d5">2</data>
     </node>
     <node id="Alice Cooper (band)">
@@ -3460,7 +3457,7 @@
       <data key="d1">hard rock; glam rock; shock rock; psychedelic rock</data>
       <data key="d2">4</data>
       <data key="d6">Phoenix, Arizona, U.S.</data>
-      <data key="d4">6.248008415147265</data>
+      <data key="d4">hard rock;glam rock;shock rock;psychedelic rock</data>
       <data key="d5">3</data>
     </node>
     <node id="Audioslave">
@@ -3468,7 +3465,7 @@
       <data key="d1">hard rock alternative metal</data>
       <data key="d2">1</data>
       <data key="d6">Glendale, California, U.S.</data>
-      <data key="d4">6.081448516579407</data>
+      <data key="d4">hard rock alternative metal</data>
       <data key="d5">0</data>
     </node>
     <node id="Bowling for Soup">
@@ -3477,7 +3474,7 @@
       <data key="d2">1</data>
       <data key="d6">Wichita Falls, Texas, U.S.</data>
       <data key="d3">1994–present</data>
-      <data key="d4">6.3118905472636815</data>
+      <data key="d4">pop punk pop rock power pop</data>
       <data key="d5">1</data>
     </node>
     <node id="Blues Traveler">
@@ -3486,7 +3483,7 @@
       <data key="d2">1</data>
       <data key="d6">Princeton, New Jersey, U.S.</data>
       <data key="d3">1987–present</data>
-      <data key="d4">6.409060773480663</data>
+      <data key="d4">blues rock folk rock alternative rock southern rock jam band</data>
       <data key="d5">3</data>
     </node>
     <node id="The Big Bopper">
@@ -3495,14 +3492,14 @@
       <data key="d2">3</data>
       <data key="d3">1949–1959</data>
       <data key="d7">Mercury Records</data>
-      <data key="d4">6.120661538461539</data>
+      <data key="d4">rock and roll;rockabilly;country</data>
       <data key="d5">3</data>
     </node>
     <node id="Ritchie Valens">
       <data key="d0">3677</data>
       <data key="d1">rock and roll chicano rock</data>
       <data key="d2">1</data>
-      <data key="d4">6.235190947666196</data>
+      <data key="d4">rock and roll chicano rock</data>
       <data key="d5">3</data>
     </node>
     <node id="Joe Cocker">
@@ -3510,7 +3507,7 @@
       <data key="d1">rock; blues; blue eyed soul; pop</data>
       <data key="d2">4</data>
       <data key="d3">1961–2014</data>
-      <data key="d4">6.420136452241715</data>
+      <data key="d4">rock;blues;blue eyed soul;pop</data>
       <data key="d5">3</data>
     </node>
     <node id="Thousand Foot Krutch">
@@ -3519,7 +3516,7 @@
       <data key="d2">1</data>
       <data key="d6">Peterborough, Ontario, Canada</data>
       <data key="d3">1995–present (currently on indefinite hiatus)</data>
-      <data key="d4">6.41293768545994</data>
+      <data key="d4">christian rock christian metal heavy metal hard rock alternative rock rap metal</data>
       <data key="d5">2</data>
     </node>
     <node id="Matchbox Twenty">
@@ -3527,7 +3524,7 @@
       <data key="d1">alternative rock post grunge</data>
       <data key="d2">1</data>
       <data key="d6">Orlando, Florida, U.S.</data>
-      <data key="d4">6.418511821974965</data>
+      <data key="d4">alternative rock post grunge</data>
       <data key="d5">2</data>
     </node>
     <node id="Lifehouse (band)">
@@ -3536,7 +3533,7 @@
       <data key="d2">3</data>
       <data key="d6">Los Angeles, California, U.S.</data>
       <data key="d3">1995–2021 (on hiatus)</data>
-      <data key="d4">6.3512965722801775</data>
+      <data key="d4">alternative rock;post grunge;pop rock</data>
       <data key="d5">2</data>
     </node>
     <node id="Steve Miller Band">
@@ -3545,7 +3542,7 @@
       <data key="d2">3</data>
       <data key="d6">San Francisco, California, U.S.</data>
       <data key="d3">1966–present</data>
-      <data key="d4">6.252326732673268</data>
+      <data key="d4">blues rock;psychedelic rock;pop rock</data>
       <data key="d5">4</data>
     </node>
     <node id="The White Stripes">
@@ -3554,7 +3551,7 @@
       <data key="d2">5</data>
       <data key="d6">Detroit, Michigan, US</data>
       <data key="d3">1997–2011</data>
-      <data key="d4">6.314574220567706</data>
+      <data key="d4">garage rock;blues rock;alternative rock;punk blues;indie rock</data>
       <data key="d5">1</data>
     </node>
     <node id="Gene Vincent">
@@ -3562,7 +3559,7 @@
       <data key="d1">rockabilly; rock and roll; country</data>
       <data key="d2">3</data>
       <data key="d3">1955–1971</data>
-      <data key="d4">6.119482976040353</data>
+      <data key="d4">rockabilly;rock and roll;country</data>
       <data key="d5">3</data>
     </node>
     <node id="Travis (band)">
@@ -3571,7 +3568,7 @@
       <data key="d2">1</data>
       <data key="d6">Glasgow, Scotland</data>
       <data key="d3">1990–present</data>
-      <data key="d4">6.514601092896174</data>
+      <data key="d4">post britpop pop rock alternative rock</data>
       <data key="d5">1</data>
     </node>
     <node id="Bay City Rollers">
@@ -3581,7 +3578,7 @@
       <data key="d6">Edinburgh, Scotland</data>
       <data key="d3">1964–1987, 1990, 1996, 1999–2000, 2015–2016, 2018–present</data>
       <data key="d7">Bell, Arista, Epic</data>
-      <data key="d4">6.222074554294975</data>
+      <data key="d4">pop;glam rock;pop rock</data>
       <data key="d5">3</data>
     </node>
     <node id="The Four Seasons (band)">
@@ -3590,7 +3587,7 @@
       <data key="d2">1</data>
       <data key="d6">Newark, New Jersey, U.S.</data>
       <data key="d3">1953–1977, 1979–present</data>
-      <data key="d4">6.204529860228717</data>
+      <data key="d4">pop rock pop soulthe following sources cite the four seasons as either white soul, blue eyed soul, pop soul, or northern soul: doo wop rock and roll</data>
       <data key="d5">3</data>
     </node>
     <node id="Starset">
@@ -3599,7 +3596,7 @@
       <data key="d2">1</data>
       <data key="d6">Columbus, Ohio, U.S.</data>
       <data key="d3">2013–present</data>
-      <data key="d4">6.297837301587302</data>
+      <data key="d4">alternative rock electronic rock alternative metal progressive rock</data>
       <data key="d5">2</data>
     </node>
     <node id="X (American band)">
@@ -3608,7 +3605,7 @@
       <data key="d2">2</data>
       <data key="d6">Los Angeles, California, U.S.</data>
       <data key="d3">1977–2025</data>
-      <data key="d4">6.31202852614897</data>
+      <data key="d4">punk rock;alternative rock</data>
       <data key="d5">1</data>
     </node>
     <node id="Huey Lewis and the News">
@@ -3618,7 +3615,7 @@
       <data key="d6">San Francisco, California, U.S.</data>
       <data key="d3">1979–presentGreatest Hits - CD booklet</data>
       <data key="d7">Chrysalis, Elektra, BMG</data>
-      <data key="d4">6.326285329744279</data>
+      <data key="d4">rock;new wave;rhythm and blues;doo wop</data>
       <data key="d5">4</data>
     </node>
     <node id="Billy Squier">
@@ -3627,7 +3624,7 @@
       <data key="d2">1</data>
       <data key="d3">1968–present</data>
       <data key="d7">Capitol</data>
-      <data key="d4">6.255410256410255</data>
+      <data key="d4">hard rock arena rock pop rock power pop</data>
       <data key="d5">0</data>
     </node>
     <node id="Billy Talent">
@@ -3636,14 +3633,14 @@
       <data key="d2">1</data>
       <data key="d6">Mississauga, Ontario, Canada</data>
       <data key="d3">1993–present</data>
-      <data key="d4">6.270815642458101</data>
+      <data key="d4">punk rock alternative rock pop punk</data>
       <data key="d5">1</data>
     </node>
     <node id="Melissa Etheridge">
       <data key="d0">3883</data>
       <data key="d1">heartland rock; roots rock; folk rock; blues rock; country rock</data>
       <data key="d2">5</data>
-      <data key="d4">6.30985549132948</data>
+      <data key="d4">heartland rock;roots rock;folk rock;blues rock;country rock</data>
       <data key="d5">4</data>
     </node>
     <node id="W.A.S.P. (band)">
@@ -3651,7 +3648,7 @@
       <data key="d1">heavy metal; glam metal</data>
       <data key="d2">2</data>
       <data key="d6">Los Angeles, California, U.S.</data>
-      <data key="d4">6.004209827357238</data>
+      <data key="d4">heavy metal;glam metal</data>
       <data key="d5">0</data>
     </node>
     <node id="The Mothers of Invention">
@@ -3659,7 +3656,7 @@
       <data key="d1">jazz rock; experimental rock; progressive rock; comedy rock; blues rock; avant garde; doo wop; art rock</data>
       <data key="d2">8</data>
       <data key="d6">Pomona, California, U.S.</data>
-      <data key="d4">6.2532045779685275</data>
+      <data key="d4">jazz rock;experimental rock;progressive rock;comedy rock;blues rock;avant garde;doo wop;art rock</data>
       <data key="d5">3</data>
     </node>
     <node id="The Monkees">
@@ -3667,7 +3664,7 @@
       <data key="d1">pop rock rock bubblegum psychedelia</data>
       <data key="d2">1</data>
       <data key="d6">Los Angeles, California</data>
-      <data key="d4">6.193965244865719</data>
+      <data key="d4">pop rock rock bubblegum psychedelia</data>
       <data key="d5">3</data>
     </node>
     <node id="Canned Heat">
@@ -3676,7 +3673,7 @@
       <data key="d2">2</data>
       <data key="d6">Los Angeles, California, U.S.</data>
       <data key="d3">1965–present</data>
-      <data key="d4">6.096404602109299</data>
+      <data key="d4">blues rock;boogie rock</data>
       <data key="d5">3</data>
     </node>
     <node id="Buckcherry">
@@ -3684,7 +3681,7 @@
       <data key="d1">hard rock alternative metal sleaze rock</data>
       <data key="d2">1</data>
       <data key="d6">Anaheim, California, U.S.</data>
-      <data key="d4">6.326070686070685</data>
+      <data key="d4">hard rock alternative metal sleaze rock</data>
       <data key="d5">2</data>
     </node>
     <node id="Sly and the Family Stone">
@@ -3693,7 +3690,7 @@
       <data key="d2">1</data>
       <data key="d3">1966–1983</data>
       <data key="d7">Epic, Stone Flower</data>
-      <data key="d4">6.344467532467532</data>
+      <data key="d4">psychedelic soul funk rock progressive soul</data>
       <data key="d5">1</data>
     </node>
     <node id="The Boxtones">
@@ -3703,7 +3700,7 @@
       <data key="d6">Dubai, UAE (Members are from Scotland and Canada)</data>
       <data key="d3">2013–present</data>
       <data key="d7">Universal Music Group Middle East &amp; North Africa</data>
-      <data key="d4">6.748915662650602</data>
+      <data key="d4">rock</data>
       <data key="d5">3</data>
     </node>
     <node id="Kaiser Chiefs">
@@ -3713,7 +3710,7 @@
       <data key="d6">Leeds, England</data>
       <data key="d3">1996–present</data>
       <data key="d7">MCA Music, Inc., B-Unique, Fiction, Polydor, Drowned in Sound, Mantra, Liberator, Caroline International, ATO, V2 Benelux</data>
-      <data key="d4">6.373596403596403</data>
+      <data key="d4">indie rock;pop rock;post punk revival;art punk;power pop;pop punk;alternative rock</data>
       <data key="d5">1</data>
     </node>
     <node id="Golden Earring">
@@ -3721,7 +3718,7 @@
       <data key="d1">hard rock; blues rock; jazz rock; psychedelic rock; garage rock</data>
       <data key="d2">5</data>
       <data key="d6">The Hague, Netherlands</data>
-      <data key="d4">6.425468749999999</data>
+      <data key="d4">hard rock;blues rock;jazz rock;psychedelic rock;garage rock</data>
       <data key="d5">0</data>
     </node>
     <node id="Highly Suspect">
@@ -3730,7 +3727,7 @@
       <data key="d2">1</data>
       <data key="d6">Cape Cod, Massachusetts. U.S.</data>
       <data key="d3">2009–present</data>
-      <data key="d4">6.148131067961166</data>
+      <data key="d4">alternative rock hard rock grunge garage rock</data>
       <data key="d5">2</data>
     </node>
     <node id="The Marshall Tucker Band">
@@ -3740,7 +3737,7 @@
       <data key="d6">Spartanburg, South Carolina, U.S.</data>
       <data key="d3">1972–present</data>
       <data key="d7">Capricorn, Warner Bros., Mercury, Cabin Fever, Ramblin'</data>
-      <data key="d4">6.303195187165775</data>
+      <data key="d4">southern rock;country rock;progressive country;blues rock;jazz rock</data>
       <data key="d5">4</data>
     </node>
     <node id="Ten Years After">
@@ -3748,7 +3745,7 @@
       <data key="d1">blues rock</data>
       <data key="d2">1</data>
       <data key="d6">Nottingham, England</data>
-      <data key="d4">6.5276587301587305</data>
+      <data key="d4">blues rock</data>
       <data key="d5">3</data>
     </node>
     <node id="Starship (band)">
@@ -3757,7 +3754,7 @@
       <data key="d2">3</data>
       <data key="d6">San Francisco, California, US</data>
       <data key="d3">1984–present</data>
-      <data key="d4">6.108897243107769</data>
+      <data key="d4">rock;arena rock;pop rock</data>
       <data key="d5">4</data>
     </node>
     <node id="Manfred Mann (musician)">
@@ -3766,7 +3763,7 @@
       <data key="d2">1</data>
       <data key="d6">London, England</data>
       <data key="d3">Early 1960s–present</data>
-      <data key="d4">6.399554455445545</data>
+      <data key="d4">beat blues rock r and b psychedelia jazz rock progressive rock hard rock</data>
       <data key="d5">3</data>
     </node>
     <node id="Hootie &amp; the Blowfish">
@@ -3774,7 +3771,7 @@
       <data key="d1">pop rock alternative rock soft rock roots rock heartland rock jangle pop</data>
       <data key="d2">1</data>
       <data key="d6">Columbia, South Carolina, U.S.</data>
-      <data key="d4">6.383890845070423</data>
+      <data key="d4">pop rock alternative rock soft rock roots rock heartland rock jangle pop</data>
       <data key="d5">1</data>
     </node>
     <node id="Social Distortion">
@@ -3783,7 +3780,7 @@
       <data key="d2">1</data>
       <data key="d6">Fullerton, California, U.S.</data>
       <data key="d3">–present</data>
-      <data key="d4">6.148008097165992</data>
+      <data key="d4">punk rock cowpunk hardcore punk</data>
       <data key="d5">1</data>
     </node>
     <node id="Sublime (band)">
@@ -3791,7 +3788,7 @@
       <data key="d1">ska punk; reggae rock</data>
       <data key="d2">2</data>
       <data key="d6">Long Beach, California, U.S.</data>
-      <data key="d4">6.2921992709599035</data>
+      <data key="d4">ska punk;reggae rock</data>
       <data key="d5">1</data>
     </node>
     <node id="Sublime with Rome">
@@ -3800,7 +3797,7 @@
       <data key="d2">1</data>
       <data key="d6">Long Beach, California, United States</data>
       <data key="d3">2009–2024</data>
-      <data key="d4">6.197100494233938</data>
+      <data key="d4">reggae rock alternative rock hip hop dub ska punk punk rock</data>
       <data key="d5">1</data>
     </node>
     <node id="The J. Geils Band">
@@ -3809,7 +3806,7 @@
       <data key="d2">3</data>
       <data key="d6">Worcester, Massachusetts, U.S.</data>
       <data key="d7">Atlantic, EMI America</data>
-      <data key="d4">6.240607902735562</data>
+      <data key="d4">rock;blues rock;new wave</data>
       <data key="d5">3</data>
     </node>
     <node id="UB40">
@@ -3818,7 +3815,7 @@
       <data key="d2">2</data>
       <data key="d6">Birmingham, England</data>
       <data key="d3">1978–present</data>
-      <data key="d4">6.309738406658739</data>
+      <data key="d4">reggae;dub</data>
       <data key="d5">3</data>
     </node>
     <node id="The Lovin' Spoonful">
@@ -3826,7 +3823,7 @@
       <data key="d1">pop; rock</data>
       <data key="d2">2</data>
       <data key="d6">, , US</data>
-      <data key="d4">6.2875349256421815</data>
+      <data key="d4">pop;rock</data>
       <data key="d5">3</data>
     </node>
     <node id="Michael Martin Murphey">
@@ -3834,7 +3831,7 @@
       <data key="d1">progressive country; western/cowboy; bluegrass</data>
       <data key="d2">3</data>
       <data key="d3">1964–present</data>
-      <data key="d4">6.588271028037383</data>
+      <data key="d4">progressive country;western/cowboy;bluegrass</data>
       <data key="d5">3</data>
     </node>
     <node id="Shakin' Stevens">
@@ -3842,14 +3839,14 @@
       <data key="d1">rockabilly rock and roll</data>
       <data key="d2">1</data>
       <data key="d3">1968–present</data>
-      <data key="d4">6.211487889273356</data>
+      <data key="d4">rockabilly rock and roll</data>
       <data key="d5">3</data>
     </node>
     <node id="James Blunt">
       <data key="d0">4698</data>
       <data key="d1">pop rock; folk rock; folk pop; soft rock</data>
       <data key="d2">4</data>
-      <data key="d4">6.469671832269826</data>
+      <data key="d4">pop rock;folk rock;folk pop;soft rock</data>
       <data key="d5">3</data>
     </node>
     <node id="The Doobie Brothers">
@@ -3857,7 +3854,7 @@
       <data key="d1">rock; soft rock; pop; blue eyed soul</data>
       <data key="d2">4</data>
       <data key="d6">San Jose, California, U.S.</data>
-      <data key="d4">6.2797592847317745</data>
+      <data key="d4">rock;soft rock;pop;blue eyed soul</data>
       <data key="d5">4</data>
     </node>
     <node id="Tenacious D">
@@ -3866,7 +3863,7 @@
       <data key="d2">4</data>
       <data key="d6">Los Angeles, California, U.S.</data>
       <data key="d3">1994–present</data>
-      <data key="d4">6.385899802241266</data>
+      <data key="d4">comedy rock;acoustic rock;hard rock;heavy metal</data>
       <data key="d5">1</data>
     </node>
     <node id="Days of the New">
@@ -3875,7 +3872,7 @@
       <data key="d2">1</data>
       <data key="d6">Charlestown, Indiana, U.S.</data>
       <data key="d3">1995–2014</data>
-      <data key="d4">6.0809843400447425</data>
+      <data key="d4">post grunge alternative rock acoustic</data>
       <data key="d5">2</data>
     </node>
     <node id="Coheed and Cambria">
@@ -3884,7 +3881,7 @@
       <data key="d2">1</data>
       <data key="d6">Nyack, New York, U.S.</data>
       <data key="d3">1995–present</data>
-      <data key="d4">6.323307984790874</data>
+      <data key="d4">progressive rock emo progressive metal</data>
       <data key="d5">0</data>
     </node>
     <node id="Black Veil Brides">
@@ -3893,7 +3890,7 @@
       <data key="d2">1</data>
       <data key="d6">Cincinnati, Ohio, U.S.</data>
       <data key="d3">2006–present</data>
-      <data key="d4">6.328640776699029</data>
+      <data key="d4">hard rock alternative metal</data>
       <data key="d5">0</data>
     </node>
     <node id="Tommy James and the Shondells">
@@ -3903,7 +3900,7 @@
       <data key="d6">Niles, Michigan, U.S.</data>
       <data key="d3">–present</data>
       <data key="d7">Roulette</data>
-      <data key="d4">6.197655860349128</data>
+      <data key="d4">rock;bubblegum;psychedelic</data>
       <data key="d5">1</data>
     </node>
     <node id="Duane Eddy">
@@ -3911,7 +3908,7 @@
       <data key="d1">instrumental rock; rockabilly; rock and roll; country</data>
       <data key="d2">4</data>
       <data key="d3">1954–2024</data>
-      <data key="d4">6.38915404040404</data>
+      <data key="d4">instrumental rock;rockabilly;rock and roll;country</data>
       <data key="d5">3</data>
     </node>
     <node id="Flogging Molly">
@@ -3921,7 +3918,7 @@
       <data key="d6">Los Angeles, California, U.S.</data>
       <data key="d3">1997–present</data>
       <data key="d7">SideOneDummy, Burning Heart, Vanguard, Borstal Beat, Rise</data>
-      <data key="d4">6.246335078534033</data>
+      <data key="d4">celtic punk;folk punk</data>
       <data key="d5">1</data>
     </node>
     <node id="The Jesus and Mary Chain">
@@ -3930,7 +3927,7 @@
       <data key="d2">1</data>
       <data key="d6">East Kilbride, Lanarkshire, Scotland</data>
       <data key="d3">1983–1999, 2007–present</data>
-      <data key="d4">6.0828494623655915</data>
+      <data key="d4">noise pop alternative rock indie rock post punk</data>
       <data key="d5">1</data>
     </node>
     <node id="Kaleo (band)">
@@ -3940,7 +3937,7 @@
       <data key="d6">Mosfellsbær, Iceland</data>
       <data key="d3">–present</data>
       <data key="d7">Elektra</data>
-      <data key="d4">6.196533018867925</data>
+      <data key="d4">blues rock;indie folk;alternative rock</data>
       <data key="d5">3</data>
     </node>
     <node id="Ian Dury">
@@ -3949,7 +3946,7 @@
       <data key="d2">6</data>
       <data key="d3">1970–2000</data>
       <data key="d7">Dawn, Stiff, Polydor, Demon, Ronnie Harris</data>
-      <data key="d4">6.260637149028078</data>
+      <data key="d4">new wave;punk rock;post punk;funk;disco;pub rock</data>
       <data key="d5">3</data>
     </node>
     <node id="Jim Croce">
@@ -3957,7 +3954,7 @@
       <data key="d1">folk; soft rock</data>
       <data key="d2">2</data>
       <data key="d3">1964–1973</data>
-      <data key="d4">6.124670542635659</data>
+      <data key="d4">folk;soft rock</data>
       <data key="d5">0</data>
     </node>
     <node id="Collective Soul">
@@ -3966,7 +3963,7 @@
       <data key="d2">4</data>
       <data key="d6">Stockbridge, Georgia, U.S.</data>
       <data key="d3">1992–present</data>
-      <data key="d4">6.272629674306393</data>
+      <data key="d4">alternative rock;hard rock;post grunge;allmusic</data>
       <data key="d5">2</data>
     </node>
     <node id="FireHouse">
@@ -3975,7 +3972,7 @@
       <data key="d2">1</data>
       <data key="d6">Richmond, Virginia, U.S.</data>
       <data key="d3">1984–present</data>
-      <data key="d4">6.281621621621622</data>
+      <data key="d4">glam metal hard rock</data>
       <data key="d5">0</data>
     </node>
     <node id="Smokie (band)">
@@ -3985,7 +3982,7 @@
       <data key="d6">Bradford, Yorkshire, England</data>
       <data key="d3">1964–present</data>
       <data key="d7">RakEMI/BMGRSO</data>
-      <data key="d4">6.296515151515151</data>
+      <data key="d4">pop rock;soft rock;glam rock;allmusic</data>
       <data key="d5">4</data>
     </node>
     <node id="Catfish and the Bottlemen">
@@ -3994,7 +3991,7 @@
       <data key="d2">1</data>
       <data key="d6">Llandudno, Conwy, Wales</data>
       <data key="d3">2007–present</data>
-      <data key="d4">6.448391719745223</data>
+      <data key="d4">alternative rock indie rock post punk revival</data>
       <data key="d5">1</data>
     </node>
     <node id="Crash Test Dummies">
@@ -4004,7 +4001,7 @@
       <data key="d6">Winnipeg, Manitoba, Canada</data>
       <data key="d3">1988–present</data>
       <data key="d7">Arista, ViK., Deep Fried</data>
-      <data key="d4">6.2472589531680445</data>
+      <data key="d4">alternative rock;folk rock</data>
       <data key="d5">1</data>
     </node>
     <node id="The Outfield">
@@ -4012,7 +4009,7 @@
       <data key="d1">pop rock power pop new wave</data>
       <data key="d2">1</data>
       <data key="d6">London, England</data>
-      <data key="d4">6.278980322003577</data>
+      <data key="d4">pop rock power pop new wave</data>
       <data key="d5">4</data>
     </node>
     <node id="The Dave Clark Five">
@@ -4020,7 +4017,7 @@
       <data key="d1">rock and roll; beat; pop</data>
       <data key="d2">3</data>
       <data key="d6">Tottenham, London, England</data>
-      <data key="d4">6.290656167979003</data>
+      <data key="d4">rock and roll;beat;pop</data>
       <data key="d5">3</data>
     </node>
     <node id="Vampire Weekend">
@@ -4029,7 +4026,7 @@
       <data key="d2">1</data>
       <data key="d6">New York City, New York, U.S.</data>
       <data key="d3">2006–present</data>
-      <data key="d4">6.547899159663866</data>
+      <data key="d4">indie rock indie pop worldbeat</data>
       <data key="d5">3</data>
     </node>
     <node id="The Stone Roses">
@@ -4037,7 +4034,7 @@
       <data key="d1">madchester; indie rock; alternative rock; dance rock; neo psychedelia</data>
       <data key="d2">5</data>
       <data key="d6">Manchester, England</data>
-      <data key="d4">6.309613970588236</data>
+      <data key="d4">madchester;indie rock;alternative rock;dance rock;neo psychedelia</data>
       <data key="d5">1</data>
     </node>
     <node id="Chris Rea">
@@ -4045,7 +4042,7 @@
       <data key="d1">pop rock soft rock electric blues blues rock</data>
       <data key="d2">1</data>
       <data key="d3">1973–present</data>
-      <data key="d4">6.220609418282549</data>
+      <data key="d4">pop rock soft rock electric blues blues rock</data>
       <data key="d5">3</data>
     </node>
     <node id="Chris de Burgh">
@@ -4053,7 +4050,7 @@
       <data key="d1">art rock pop soft rock</data>
       <data key="d2">1</data>
       <data key="d6">County Wexford, Ireland</data>
-      <data key="d4">6.361175213675213</data>
+      <data key="d4">art rock pop soft rock</data>
       <data key="d5">3</data>
     </node>
     <node id="Greta Van Fleet">
@@ -4062,7 +4059,7 @@
       <data key="d2">1</data>
       <data key="d6">Frankenmuth, Michigan, U.S.</data>
       <data key="d3">2012–present</data>
-      <data key="d4">6.528690095846645</data>
+      <data key="d4">hard rock blues rock progressive rock</data>
       <data key="d5">0</data>
     </node>
     <node id="The Verve">
@@ -4070,7 +4067,7 @@
       <data key="d1">neo psychedelia alternative rock britpop shoegaze</data>
       <data key="d2">1</data>
       <data key="d6">Wigan, Greater Manchester, England</data>
-      <data key="d4">6.267482678983833</data>
+      <data key="d4">neo psychedelia alternative rock britpop shoegaze</data>
       <data key="d5">1</data>
     </node>
     <node id="The Hives">
@@ -4079,7 +4076,7 @@
       <data key="d2">2</data>
       <data key="d6">Fagersta, Västmanland, Sweden</data>
       <data key="d3">1993–present</data>
-      <data key="d4">6.216873350923484</data>
+      <data key="d4">garage rock revival;garage punk</data>
       <data key="d5">1</data>
     </node>
     <node id="Ben Folds Five">
@@ -4087,7 +4084,7 @@
       <data key="d1">alternative rock power pop</data>
       <data key="d2">1</data>
       <data key="d6">Chapel Hill, North Carolina, U.S.</data>
-      <data key="d4">6.3458430232558145</data>
+      <data key="d4">alternative rock power pop</data>
       <data key="d5">1</data>
     </node>
     <node id="The Presidents of the United States of America (band)">
@@ -4095,7 +4092,7 @@
       <data key="d1">alternative rock pop punk post grunge</data>
       <data key="d2">1</data>
       <data key="d6">Seattle, U.S.</data>
-      <data key="d4">6.396494382022472</data>
+      <data key="d4">alternative rock pop punk post grunge</data>
       <data key="d5">0</data>
     </node>
     <node id="Blue October">
@@ -4104,7 +4101,7 @@
       <data key="d2">6</data>
       <data key="d6">Houston, Texas, U.S.</data>
       <data key="d3">1995–present</data>
-      <data key="d4">6.3070347648261755</data>
+      <data key="d4">alternative rock;art rock;post grunge;new wave;synth pop;shoegaze</data>
       <data key="d5">1</data>
     </node>
     <node id="England Dan &amp; John Ford Coley">
@@ -4114,7 +4111,7 @@
       <data key="d6">Dallas, Texas, U.S.</data>
       <data key="d3">1970–1980</data>
       <data key="d7">A&amp;M, Big Tree Records</data>
-      <data key="d4">6.257161716171617</data>
+      <data key="d4">pop rock;soft rock;country rock</data>
       <data key="d5">4</data>
     </node>
     <edge source="Ted Nugent" target="Damn Yankees (band)" />
