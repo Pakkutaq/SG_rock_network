@@ -1,6 +1,6 @@
 .env
 graph_viz_env
 user_languages.json
-repo_data.jsongithub_graph.log
+github_graph.log
 MainProject/*.gexf
 MainProject/exploration_state.gexf
