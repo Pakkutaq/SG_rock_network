@@ -4,3 +4,4 @@ user_languages.json
 github_graph.log
 MainProject/*.gexf
 MainProject/exploration_state.gexf
+.idea/*
